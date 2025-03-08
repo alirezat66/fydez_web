@@ -1,0 +1,720 @@
+{
+    "success": "true",
+    "data": {
+      "product_detail_page": {
+        "hasHeader": true,
+        "items": [
+          {
+            "type": "productImages"
+          },
+          {
+            "type": "productDetailTag"
+          },
+          {
+            "type": "productDetailName"
+          },
+          {
+            "type": "productDetailPrice"
+          },
+          {
+            "type": "productDetailDescription"
+          },
+          {
+            "type": "productVariations"
+          },
+          {
+            "type": "detailDrawer",
+            "title":"A Custom Tile!",
+            "subtitle": "A really long long long long, long long, long long long long long long text."
+          },
+          {
+            "type": "productCarousel",
+            "hasViewAll": false,
+            "viewAllCta": {
+              "id": "",
+              "url": "",
+              "title": "",
+              "type": {
+                "label": "",
+                "value": ""
+              }
+            },
+            "viewPort": 1,
+            "title": "New Arrival",
+            "items": [
+              {
+                "type": "product",
+                "productId": 10,
+                "productName": "product",
+                "picture": {
+                  "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                },
+                "price": {
+                  "price": "225000",
+                  "finalPrice": "225000"
+                },
+                "tag": {}
+              },
+              {
+                "type": "product",
+                "productId": 10,
+                "productName": "product",
+                "picture": {
+                  "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                },
+                "price": {
+                  "price": "225000",
+                  "finalPrice": "225000"
+                },
+                "tag": {}
+              }
+            ]
+          }
+        
+        ]
+      },
+      "main_page": {
+        "home": {
+          "icon": "",
+          "title": "Home",
+          "items": [
+            {
+              "type": "search_bar",
+              "placeHolder": "Search Product"
+            },
+            {
+              "type": "count_down_timer",
+              "finishDateTime": "2023-09-01 15:33:02.442446",
+              "startDateTime": "2023-06-25 12:59:51.363",
+              "headline": "Test Timer",
+              "color": "FF0000",
+              "cornerRadius": 16
+            },
+            {
+              "type": "count_down_timer_with_background",
+              "finishDateTime": "2023-09-01 15:33:02.442446",
+              "startDateTime": "2023-06-25 12:59:51.363",
+              "headline": "Test Timer",
+              "color": "FF0000",
+              "cornerRadius": 16,
+              "backgroundImage": "https://oroton-images.s3.amazonaws.com/6d0f52a4c979473e9cec83f0d6655d24.png"
+
+            },
+            {
+              "type": "banner",
+              "aspectRatio": 1.5,
+              "style": {
+                "label": "Bordered",
+                "value": "bordered"
+              },
+              "contentPath": "https://oroton-images.s3.amazonaws.com/6d0f52a4c979473e9cec83f0d6655d24.png",
+              "cta": {
+                "id": "",
+                "url": "",
+                "title": "",
+                "type": {
+                  "label": "",
+                  "value": ""
+                }
+              }
+            },
+            {
+              "type": "slider",
+              "isAutoPlay": true,
+              "autoPlayInterval": 3000,
+              "aspectRatio": 1.5,
+              "isShowIndicator": true,
+              "items": [
+                {
+                  "type": "banner",
+                  "aspectRatio": 1.5,
+                  "style": {
+                    "label": "Bordered",
+                    "value": "bordered"
+                  },
+                  "contentPath": "https://oroton-images.s3.amazonaws.com/6d0f52a4c979473e9cec83f0d6655d24.png",
+                  "cta": {
+                    "id": "",
+                    "url": "",
+                    "title": "",
+                    "type": {
+                      "label": "",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "banner",
+                  "aspectRatio": 1.5,
+                  "style": {
+                    "label": "Bordered",
+                    "value": "bordered"
+                  },
+                  "contentPath": "https://oroton-images.s3.amazonaws.com/f0eced44d5054591bccd94f4488bb2a0.png",
+                  "cta": {
+                    "id": "",
+                    "url": "",
+                    "title": "",
+                    "type": {
+                      "label": "",
+                      "value": ""
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "textType": "title",
+              "value": "Milad ft. Behrad Categories"
+            },
+            {
+              "type": "carousel",
+              "viewPort": 1,
+              "childType": "category",
+              "hasViewAll": true,
+              "viewAllCta": {
+                "id": "",
+                "url": "",
+                "title": "",
+                "type": {
+                  "label": "",
+                  "value": ""
+                }
+              },
+              "title": "New Arrival",
+              "items": [
+                {
+                  "type": "category",
+                  "name": "category 1",
+                  "seoName": "",
+                  "cta": {
+                    "id": "",
+                    "url": "",
+                    "title": "",
+                    "type": {
+                      "label": "",
+                      "value": ""
+                    }
+                  },
+                  "haveSubCategories": false,
+                  "id": 10,
+                  "imagePath": "https://oroton-images.s3.amazonaws.com/a6133179a58a4ca8a7e9d0b1b6a5c6e3.png"
+                },
+                {
+                  "type": "category",
+                  "name": "Category 2",
+                  "seoName": "",
+                  "cta": {
+                    "id": "",
+                    "url": "",
+                    "title": "",
+                    "type": {
+                      "label": "",
+                      "value": ""
+                    }
+                  },
+                  "haveSubCategories": false,
+                  "id": 10,
+                  "imagePath": "https://oroton-images.s3.amazonaws.com/a6133179a58a4ca8a7e9d0b1b6a5c6e3.png"
+                },
+                {
+                  "type": "category",
+                  "name": "Category 4",
+                  "seoName": "",
+                  "cta": {
+                    "id": "",
+                    "url": "",
+                    "title": "",
+                    "type": {
+                      "label": "",
+                      "value": ""
+                    }
+                  },
+                  "haveSubCategories": false,
+                  "id": 11,
+                  "imagePath": "https://oroton-images.s3.amazonaws.com/a6133179a58a4ca8a7e9d0b1b6a5c6e3.png"
+                }
+              ]
+            },
+            {
+              "type": "carousel",
+              "childType": "product",
+              "hasViewAll": false,
+              "viewAllCta": {
+                "id": "",
+                "url": "",
+                "title": "",
+                "type": {
+                  "label": "",
+                  "value": ""
+                }
+              },
+              "viewPort": 1,
+              "title": "New Arrival",
+              "items": [
+                {
+                  "type": "product which is favored",
+                  "productId": 8223138545975,
+                  "productName": "product",
+                  "picture": {
+                    "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                  },
+                  "price": {
+                    "price": "225000",
+                    "finalPrice": "225000"
+                  },
+                  "tag": {}
+                },
+                {
+                  "type": "product",
+                  "productId": 8223045124407,
+                  "productName": "product",
+                  "picture": {
+                    "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                  },
+                  "price": {
+                    "price": "225000",
+                    "finalPrice": "225000"
+                  },
+                  "tag": {}
+                }, {
+                  "type": "product",
+                  "productId": 8219957920055,
+                  "productName": "product",
+                  "picture": {
+                    "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                  },
+                  "price": {
+                    "price": "225000",
+                    "finalPrice": "225000"
+                  },
+                  "tag": {}
+                }
+              ]
+            },
+            {
+              "type": "grid_view",
+              "childType": "product",
+              "title": "New Arrival",
+              "hasViewAll": true,
+              "allCta": {
+                "id": "",
+                "url": "",
+                "title": "",
+                "type": {
+                  "label": "",
+                  "value": ""
+                }
+              },
+              "items": [
+                {
+                  "type": "product",
+                  "productId": 8223138545975,
+                  "productName": "product",
+                  "picture": {
+                    "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                  },
+                  "price": {
+                    "price": "225000",
+                    "finalPrice": "225000"
+                  },
+                  "tag": {}
+                },
+                {
+                  "type": "product",
+                  "productId": 8223138545975,
+                  "productName": "product",
+                  "picture": {
+                    "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                  },
+                  "price": {
+                    "price": "225000",
+                    "finalPrice": "225000"
+                  },
+                  "tag": {}
+                }
+              ]
+            },
+            {
+              "type": "grid_view",
+              "childType": "product",
+              "title": "New Arrival",
+              "hasViewAll": true,
+              "allCta": {
+                "id": "",
+                "url": "",
+                "title": "",
+                "type": {
+                  "label": "",
+                  "value": ""
+                }
+              },
+              "items": [
+                {
+                  "type": "product",
+                  "productId": 8223138545975,
+                  "productName": "product",
+                  "picture": {
+                    "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                  },
+                  "price": {
+                    "price": "225000",
+                    "finalPrice": "225000"
+                  },
+                  "tag": {}
+                },
+                {
+                  "type": "product",
+                  "productId": 8223138545975,
+                  "productName": "product",
+                  "picture": {
+                    "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                  },
+                  "price": {
+                    "price": "225000",
+                    "finalPrice": "225000"
+                  },
+                  "tag": {}
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "textType": "title",
+              "value": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            },
+            {
+              "type": "text",
+              "textType": "subTitle",
+              "value": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+            }
+          ]
+        },
+        "shop": {
+          "icon": "",
+          "title": "Shop",
+          "tabs": [
+            {
+              "id" : 1,
+              "title": "New",
+              "pageItems": [
+                {
+                  "type": "category",
+                  "name": "Man",
+                  "seoName": "",
+                  "cta": {
+                    "id": "",
+                    "url": "",
+                    "title": "",
+                    "type": {
+                      "label": "",
+                      "value": ""
+                    }
+                  },
+                  "haveSubCategories": false,
+                  "id": 10,
+                  "imagePath": "https://oroton-images.s3.amazonaws.com/a6133179a58a4ca8a7e9d0b1b6a5c6e3.png"
+                },
+                {
+                  "type": "category",
+                  "name": "Woman",
+                  "seoName": "",
+                  "cta": {
+                    "id": "",
+                    "url": "",
+                    "title": "",
+                    "type": {
+                      "label": "",
+                      "value": ""
+                    }
+                  },
+                  "haveSubCategories": false,
+                  "id": 10,
+                  "imagePath": "https://oroton-images.s3.amazonaws.com/a6133179a58a4ca8a7e9d0b1b6a5c6e3.png"
+                },
+                {
+                  "type": "category",
+                  "name": "Woman",
+                  "seoName": "",
+                  "cta": {
+                    "id": "",
+                    "url": "",
+                    "title": "",
+                    "type": {
+                      "label": "",
+                      "value": ""
+                    }
+                  },
+                  "haveSubCategories": false,
+                  "id": 10,
+                  "imagePath": "https://oroton-images.s3.amazonaws.com/a6133179a58a4ca8a7e9d0b1b6a5c6e3.png"
+                },
+                {
+                  "type": "slider",
+                  "isAutoPlay": true,
+                  "autoPlayInterval": 3000,
+                  "aspectRatio": 1.5,
+                  "isShowIndicator": true,
+                  "items": [
+                    {
+                      "type": "banner",
+                      "aspectRatio": 1.5,
+                      "style": {
+                        "label": "Bordered",
+                        "value": "bordered"
+                      },
+                      "contentPath": "https://oroton-images.s3.amazonaws.com/6d0f52a4c979473e9cec83f0d6655d24.png",
+                      "cta": {
+                        "id": "",
+                        "url": "",
+                        "title": "",
+                        "type": {
+                          "label": "",
+                          "value": ""
+                        }
+                      }
+                    },
+                    {
+                      "type": "banner",
+                      "aspectRatio": 1.5,
+                      "style": {
+                        "label": "Bordered",
+                        "value": "bordered"
+                      },
+                      "contentPath": "https://oroton-images.s3.amazonaws.com/f0eced44d5054591bccd94f4488bb2a0.png",
+                      "cta": {
+                        "id": "",
+                        "url": "",
+                        "title": "",
+                        "type": {
+                          "label": "",
+                          "value": ""
+                        }
+                      }
+                    }
+                  ]
+                },
+               
+                {
+                  "type": "grid_view",
+                  "childType": "product",
+                  "title": "New Arrival",
+                  "hasViewAll": true,
+                  "allCta": {
+                    "id": "",
+                    "url": "",
+                    "title": "",
+                    "type": {
+                      "label": "",
+                      "value": ""
+                    }
+                  },
+                  "items": [
+                    {
+                      "type": "product",
+                      "productId": 8223138545975,
+                      "productName": "product",
+                      "picture": {
+                        "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                      },
+                      "price": {
+                        "price": "225000",
+                        "finalPrice": "225000"
+                      },
+                      "tag": {}
+                    },
+                    {
+                      "type": "product",
+                      "productId": 8223138545975,
+                      "productName": "product",
+                      "picture": {
+                        "imagePath": "https://oroton-images.s3.amazonaws.com/f256c64b6fee4af0aeba7a34fd714d61.png"
+                      },
+                      "price": {
+                        "price": "225000",
+                        "finalPrice": "225000"
+                      },
+                      "tag": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id" : 2,
+              "title": "Category",
+              "pageItems": [
+                {
+                  "type": "slider",
+                  "isAutoPlay": true,
+                  "autoPlayInterval": 3000,
+                  "aspectRatio": 1.5,
+                  "isShowIndicator": true,
+                  "items": [
+                    {
+                      "type": "banner",
+                      "aspectRatio": 1.5,
+                      "style": {
+                        "label": "Bordered",
+                        "value": "bordered"
+                      },
+                      "contentPath": "https://oroton-images.s3.amazonaws.com/6d0f52a4c979473e9cec83f0d6655d24.png",
+                      "cta": {
+                        "id": "",
+                        "url": "",
+                        "title": "",
+                        "type": {
+                          "label": "",
+                          "value": ""
+                        }
+                      }
+                    },
+                    {
+                      "type": "banner",
+                      "aspectRatio": 1.5,
+                      "style": {
+                        "label": "Bordered",
+                        "value": "bordered"
+                      },
+                      "contentPath": "https://oroton-images.s3.amazonaws.com/f0eced44d5054591bccd94f4488bb2a0.png",
+                      "cta": {
+                        "id": "",
+                        "url": "",
+                        "title": "",
+                        "type": {
+                          "label": "",
+                          "value": ""
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "category",
+                  "name": "",
+                  "seoName": "",
+                  "cta": {
+                    "id": "",
+                    "url": "",
+                    "title": "",
+                    "type": {
+                      "label": "",
+                      "value": ""
+                    }
+                  },
+                  "haveSubCategories": false,
+                  "id": 10,
+                  "imagePath": "https://oroton-images.s3.amazonaws.com/a6133179a58a4ca8a7e9d0b1b6a5c6e3.png"
+                }
+              ]
+            }
+          ]
+        },
+        "favorite": {
+          "icon": "",
+          "title": "Favorite",
+          "items": []
+        },
+        "cart": {
+          "icon": "",
+          "title": "Cart",
+          "items": []
+        },
+        "setting": {
+          "icon": "",
+          "title": "Setting",
+          "items": [
+         
+            {
+              "type": "userInfo",
+              "name": "John Doe",
+              "email": "john@doe.com"
+            },
+            {
+              "type": "account",
+              "title": "Account",
+              "icon": {
+                "label": "profileAccountSettings",
+                "value": "profileAccountSettings"
+              }
+            },
+              {
+                "type": "password",
+                "title": "Password",
+                "icon": {
+                  "label": "profilePassword",
+                  "value": "profilePassword"
+                }
+              },
+              {
+                "type": "contactUs",
+                "title": "Contact Us",
+                "icon": {
+                  "label": "profileContact",
+                  "value": "profileContact"
+                }
+              },
+              {
+                "type": "help",
+                "title": "Help",
+                "icon": {
+                  "label": "profileHelp",
+                  "value": "profileHelp"
+                }
+              },
+              {
+                "type": "myAddress",
+                "title": "My Addresses",
+                "icon": {
+                  "label": "profileAddresses",
+                  "value": "profileAddresses"
+                }
+              },
+              {
+                "type": "orderDetails",
+                "title": "Order Details",
+                "icon": {
+                  "label": "profileOrderDetails",
+                  "value": "profileOrderDetails"
+                }
+              },
+              {
+                "type": "notification",
+                "title": "Notification",
+                "icon": {
+                  "label": "profileNotifications",
+                  "value": "profileNotifications"
+                }
+              },
+              {
+                "type": "custom",
+                "title": "A Custom Tile!",
+                "cta": {
+                  "id": "",
+                  "url": "",
+                  "title": "",
+                  "type": {
+                    "label": "",
+                    "value": ""
+                  }
+                },
+                "icon": {
+                  "label": "profileAccountSettings",
+                  "value": "profileAccountSettings"
+                }
+              },
+              {
+                "type": "logOut",
+                "title": "Log Out",
+                "icon": {
+                  "label": "profileLogOut",
+                  "value": "profileLogOut"
+                }
+              }
+            
+          ]
+        }
+      }
+    }
+  }

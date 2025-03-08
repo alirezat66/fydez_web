@@ -1,0 +1,98 @@
+{
+    "items" : [
+        {
+            "type": "rich",
+            "style": "h5",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "If you’ve attended "
+                },
+                {
+                    "type": "link",
+                    "style": "h5",
+                    "text": "Fashion Week ",
+                    "link" : "https://"
+                },
+                {
+                    "type": "text",
+                    "content" : "yourself, or have kept a keen eye on attendees from afar, you’d know that dressing for a show is a little different from dressing for the everyday. Not only should your look be a little more elevated than normal (the week-long event is dedicated to celebrating creative talents, after all), showing sartorial support is also absolutely key—a label has spent many months creating and curating a collection, so a clear display of appreciation definitely won’t go unnoticed.",
+                    "style": "h5"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "content": "https://images.unsplash.com/photo-150434914"
+        },
+        {
+            "type": "text",
+            "style": "h5",
+            "content": "Meet Janelle Jerusalem, MECCA’s long-time Hair and Makeup Education Lead, whose deep interest in mental health and wellness led to her studies in psychology and some insightful thinking beyond that. Here, the beauty expert shares the secrets behind OROTON’s fresh-faced runway looks for Afterpay Australian Fashion Week (and a time-saving morning routine to help get you on your way)."
+        },
+        {
+            "type": "line",
+            "height": "1",
+            "color": "#000000"
+        },
+        
+        {
+            "type": "line",
+            "height": "1",
+            "color": "#000000"
+        },
+        {
+            "type" : "space"
+        },
+        {
+            "type": "text",
+            "style": "bold",
+            "content": "Can you tell us about your role at MECCA – we’re particularly interested to know more about your focus on wellness and psychology, and how you bring those themes together:"
+        },
+        {
+            "type": "text",
+            "content": "“We have our own education platform called MECCAversity, and my role is to work directly with our makeup and hair brands, to collaborate and deliver educational content to our store teams – and that is truly what inspired me to pursue my studies in psychology, I’m finding it all so interesting because it really ties in my interest with the human mind and behaviour. In the beauty world, there are so many elements that you can take into consideration, such as how an individual feels on the inside, not just how you look on the outside.”",
+            "style": "h5"
+        },
+        {
+            "type": "image",
+            "content": "https://images.unsplash.com/photo-150434914"   
+        },
+        {
+            "type": "row",
+            "items":[
+                {
+                    "type": "image",
+                    "content": "https://images.unsplash.com/photo-150434914"   
+                },
+
+                {
+                    "type": "image",
+                    "content": "https://images.unsplash.com/photo-150434914"   
+                }
+            ]
+        },
+        {
+            "type" : "grid",
+            "crossCount" : 2,
+            "crossSpacing" : 16,
+            "mainSpacing": 16,
+            "items" :[
+                {
+                    "type" : "product",
+                    "id" : 1,
+                    "url" : "",
+                    "image": "",
+                    "title":""
+                }
+            ]
+        },
+        {
+            "type" : "button",
+            "url": "",
+            "title":"Shop The Edit",
+            "style" : "outboard"  
+        }
+    ]
+}

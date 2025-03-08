@@ -1,0 +1,149 @@
+{
+    "success": "true",
+    "data": {
+      "splash_page": {
+        "backgroundColor": {
+          "label": "black",
+          "value": "#FF0000"
+        },
+        "iconPath": "https://oroton-images.s3.amazonaws.com/e93c9d8a6f664f0294d91de4a3213b87.png",
+        "animationDuration": {
+          "label": "Medium",
+          "value": 1000
+        },
+        "delay": 200,
+        "duration": 3000,
+        "animationType": {
+          "label": "button to center",
+          "value": "entranceFromButton"
+        }
+      },
+      "onboarding_page": {
+        "hasOnboarding": true,
+        "onboardingType": "fullScreen",
+        "animation": {
+          "label": "Instant",
+          "value": "instant",
+          "duration": {
+            "label": "Medium",
+            "value": 5000
+          }
+        },
+        "buttonDetail": {
+          "type": {
+            "label": "Register/login",
+            "value": "icon"
+          },
+          "color": {
+            "label": "white",
+            "value": "#00FF0"
+          }
+        },
+        "items": [
+          {
+            "title": "Milad Test",
+            "description": "Wearing Oroton gives you a sense of confidence and style that looks effortlessly pulled together. We hope you enjoy having Oroton as part of your life as much as we do.",
+            "imagePath": "https://oroton-images.s3.amazonaws.com/a091b48c673643a69629abf4ba41052d.png"
+          },
+          {
+            "title": "Soheila Holt",
+            "description": "A dress is a one-piece garment that covers the upper and lower body, typically worn by women. Dresses come in a variety of styles, lengths, and materials, making them a versatile and popular choice for many occasions. From formal evening gowns to casual sundresses, dresses can be dressed up or down to suit the occasion.",
+            "imagePath": "https://oroton-images.s3.amazonaws.com/3274d88c9661412e881cf85adbf559ef.png"
+          },
+          {
+            "title": "Arash Holt",
+            "description": "This is Discription.",
+            "imagePath": "https://oroton-images.s3.amazonaws.com/e15d4e989a914275a8c33c3962278923.png"
+          }
+        ],
+        "titleColor": "#00FF00",
+        "descriptionColor": "#FFFF00"
+      },
+      "authentication_pages": {
+        "login_page": {
+          "iconPath": "https://oroton-images.s3.amazonaws.com/e93c9d8a6f664f0294d91de4a3213b87.png",
+          "title": "Milad",
+          "description": "This is Matn Milad",
+          "fields": {
+            "emailPlaceHolder": "milad@gmail.com",
+            "passwordPlaceHolder": "At least 12 characters",
+            "forgetPasswordButtonTitle": "Can't remember your?",
+            "loginButtonTitle": "Log in",
+            "userGuideToRegisterTitle": "Don't have?",
+            "registerButtonTitle": "Kiss us"
+          }
+        },
+        "register_page": {
+          "iconPath": "https://oroton-images.s3.amazonaws.com/e93c9d8a6f664f0294d91de4a3213b87.png",
+          "title": "Register Milad",
+          "description": "Milad test register",
+          "fields": {
+            "fullNamePlaceHolder": "E.g Milkad Wick",
+            "emailPlaceHolder": "milad@gmail.com",
+            "phoneNumberPlaceHolder": "XXX XX XX XX",
+            "passwordPlaceHolder": "At least 24 characters",
+            "confirmPasswordPlaceHolder": "Re-enter your",
+            "privacyPolicy": {
+              "type": "richText",
+              "style": "h5",
+              "items": [
+                {
+                  "type": "text",
+                  "style": "normalText",
+                  "content": "Yes, join the world of Milad."
+                },
+                {
+                  "type": "link",
+                  "content": "Abas Aqa",
+                  "href": "https://www.shopify.com/public/privacy"
+                },
+                {
+                  "type": "text",
+                  "content": "Milado service kard"
+                }
+              ]
+            },
+            "buttonTitle": "Bepeyvand",
+            "useGuideToLoginTitle": "Already have ?",
+            "loginButtonTitle": "Back"
+          }
+        },
+        "forget_password_page": {
+          "iconPath": "https://oroton-images.s3.amazonaws.com/e93c9d8a6f664f0294d91de4a3213b87.png",
+          "title": "Milad password",
+          "description": "Milad",
+          "items": {
+            "emailPlaceHolder": "example@gmail.com",
+            "buttonTitle": "Milad Password"
+          }
+        }
+      },
+      "welcome_page": {
+        "hasWelcome": false,
+        "imagePath": "https://oroton-images.s3.amazonaws.com/c43fdd1ca3404e9eb243693863a7e7e3.jpg",
+        "iconPath": "https://oroton-images.s3.amazonaws.com/e93c9d8a6f664f0294d91de4a3213b87.png",
+        "backgroundColor": {
+          "label": "black",
+          "value": "#000000"
+        },
+        "animation": {
+          "label": "none",
+          "value": "none"
+        },
+        "duration": {
+          "label": "8 seconds",
+          "value": 8000
+        },
+        "title": "Hi [name], welcome to 17 sundays",
+        "description": "Thanks for becoming a member!",
+        "titleColor": {
+          "label": "white",
+          "value": "#FFFFFF"
+        },
+        "descriptionColor": {
+          "label": "Gray3",
+          "value": "#757575"
+        }
+      }
+    }
+  }

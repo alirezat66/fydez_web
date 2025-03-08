@@ -1,0 +1,77 @@
+{
+    "data": {
+        "displaySoldOutProductsOnSearch": true,
+        "quickAddProducts": true,
+        "allowDiscountCodes": true,
+        "allowGiftCards": true,
+        "allowMulti_CurrencyAllowGiftCards": true,
+        "pushNotificationOpt_InPrompt": "Message For Test Notification Propmpt",
+        "checkoutAccountCreation": "required",
+        "displaySizeChart": true,
+        "displayShippingDetails": true,
+        "checkoutNotes": true,
+        "allowForNativeCheckout": true,
+        "navigateCustomersToCheckout": true,
+        "requirePhoneNumberAtCheckout": true,
+        "recoverAbandonedCheckout": true,
+        "rcoverAbandonedCart": null,
+        "cartBanner": true,
+        "allowSubscriptionCheckouts": true,
+        "giftWithPurchase": true,
+        "storeLocators": [
+            {
+                "imageUrl": "https://fydez-assets.s3.ap-southeast-2.amazonaws.com/WhatsApp+Image+2024-06-11+at+22.57.17.jpeg",
+                "storeId": "4f7be9e7-ff88-48b8-9e13-1dbd1c3f2006",
+                "storeName": "PAST Outdoors",
+                "state": "NSW",
+                "suburb": "Helensburgh",
+                "storeSubTitle": null,
+                "storePhoneNumber": "1800 727 847",
+                "storeAddress": "6/114 Parkes Street Helensburgh, NSW, 2508",
+                "weekdays": [
+                    {
+                        "storeOpenHours": "2024-07-05T10:00:00",
+                        "storeCloseHours": "2024-07-05T17:00:00",
+                        "dayOfweek": "Monday"
+                    },
+                    {
+                        "storeOpenHours": "2024-07-05T10:00:00.000Z",
+                        "storeCloseHours": "2024-07-05T17:00:00.000Z",
+                        "dayOfweek": "Tuesday"
+                    },
+                    {
+                        "storeOpenHours": "2024-07-05T10:00:00.000Z",
+                        "storeCloseHours": "2024-07-05T17:00:00.000Z",
+                        "dayOfweek": "Wednesday"
+                    },
+                    {
+                        "storeOpenHours": "2024-07-05T10:00:00.000Z",
+                        "storeCloseHours": "2024-07-05T17:00:00.000Z",
+                        "dayOfweek": "Thursday"
+                    },
+                    {
+                        "storeOpenHours": "2024-07-05T10:00:00.000Z",
+                        "storeCloseHours": "2024-07-05T17:00:00.000Z",
+                        "dayOfweek": "Friday"
+                    },
+                    {
+                        "storeOpenHours": "2024-07-05T10:00:00.000Z",
+                        "storeCloseHours": "2024-07-05T13:00:00.000Z",
+                        "dayOfweek": "Saturday"
+                    },
+                    {
+                        "storeOpenHours": "2024-07-05T10:00:00.000Z",
+                        "storeCloseHours": "2024-07-05T13:00:00.000Z",
+                        "dayOfweek": "Sunday"
+                    }
+                ],
+                "latitude": -34.1902126,
+                "longitude": 150.9818948
+            }
+        ],
+        "allowPushNotification": true,
+        "replace_StoreLocator": null
+    },
+    "success": true,
+    "message": null
+}

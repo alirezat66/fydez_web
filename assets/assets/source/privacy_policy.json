@@ -1,0 +1,479 @@
+{
+    "id": 4,
+    "title": "Privacy Policy",
+    "description": "",
+    "items": [
+        {
+            "title": "Overview",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Last Updated: 5/04/2022"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "This Privacy Policy explains how Oroton Group Australia Pty Ltd (also referenced as Oroton) collects and handles your personal information, and applies it to our services. This includes this website and the information from which you can be identified directly or indirectly from while you browse www.oroton, as well as when you interact with our different platforms, portals and applications using your Personal Information."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "We have developed this Privacy Policy to inform you of how your personal information and data is collected, held, and processed by Oroton."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Definitions"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "In this Privacy Policy, a reference has been made to:"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Confidentiality Notice-"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "- the notice given to visitors at the time of submitting sign-up forms, including the degree of confidentiality and/or anonymity that the site visitors will have when answering submitting forms;"
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Oroton, Oroton Group Australia Pty Ltd, we, us, or, our"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "- Oroton Group Australia Pty Ltd A.C.N. (000 704 129) and any of its related bodies corporate;"
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Services, Product -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "all internet websites, consumer products listed on the website offered by Oroton;"
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Visitor -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "any person who visits our websites;"
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Website(s) -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "collectively, www.oroton.com as well as the other websites that Oroton operates and that link to this Privacy Policy; and"
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Customer -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "the person or entity that has signup the account with Oroton; and / or purchased any products or services from Oroton. The Person or Company that has commercial relationship with Oroton; or visited Oroton website generally;"
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Personal Profile Page - "
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "the “My Account” page within the website which is a personal page available to customers;"
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Business Data -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "any content or data that you or third parties submit to Oroton using the Marketing Services;"
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "You or your -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "either an Administrator, Respondent, Individual Feedback User or Visitor, as applicable."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "We may update this Privacy Policy from time to time and the most current version will be posted on our website. We will notify you by email if changes are made to the address associated with your account or when you next log in to your account prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you have any questions or concerns about our Privacy Policy, or with the handling of your personal information, please contact our Privacy Officer at customercare@oroton.com."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Which Oroton entities collect and manage your personal information?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Oroton collects your Personal Information when you interact with Oroton in Australia."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "When interacting with Oroton through www.oroton.com or our different platforms, portals and applications, your Personal Information may be collected and managed on behalf of Oroton by other Oroton Group entities."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "What personal information does Oroton collect and hold (categories of personal information)?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "The kind of personal information that Oroton collects and holds about you is dependent on the nature of your interaction with us and the circumstances of collection."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Set out below is the kind of information we collect when you interact with us through www.oroton.com or our different platforms, portals, and applications. If you interact with us as a supplier, a contractor or in some other capacity, we may collect your name, contact details and any other information you choose to provide us with. We may also collect details of the interactions we have with you."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Oroton does not generally collect sensitive information and will only collect sensitive information about you with your consent (unless we are otherwise required or are authorised under law to do so). \"Sensitive information\" is a special category of personal information and includes health information, information about an individual's race or ethnic origin, philosophical beliefs, membership of a professional or trade association, membership of a trade union, religious or philosophical beliefs, sexual orientation or practices, or criminal record."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Listed below are the categories of Personal Information we collect directly or indirectly from you when you browse www.oroton.com or interact with our different platforms, portals and applications using your Personal Information:"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Identity information -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "includes name [first, last, initials], date of birth, e-mail address, Member ID (Member Identification Number), nickname, password, social media identifiers, information passed along to us via your Facebook or Instagram account, your device fingerprint, and gift card codes that are assigned to you. This information is utilised to verify your identity."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Contact information -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "ncludes your phone number, shipping and billing address, e-mail address, social media handle, and any other communication channel you have used to contact us for more information. I This information is utilised to contact you."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Location information - "
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "includes: your residential location, current log-in location (IP address), or the specific Oroton store you have visited that might indicate your location. This information is utilised to help you find what you are looking for at your current location."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Style Preferences -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " includes shoe size, clothes size, height, weight, chest, waist, hip, inseam, body shape, heel-toe measurement. This information is utilised to assist with sizing."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Purchase information -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": ""
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "includes your payment information (credit card number), shopping cart (your ordered items), delivery details, shipping and billing address, customer order number, purchase history with Oroton, transaction ID, and any other information related to your purchase. This information is utilised to complete your order on Oroton websites, in Oroton stores, or other selling platforms."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Behavioural and Profile information -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "includes your shopping history, Wishlist items, your browsing behaviour, your browsing preferences, your shopping preferences, in-store interactions, product reviews, social media interactions with us, and any other intelligence we have about you to help us learn about you as a consumer. including “Community information”. This information is used to know you better as a consumer, and so we can send you marketing messages containing products and services that we think you might be interested in."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Community information -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "includes information provided by you when you participate in various Oroton events and communities either as a team member, a participant or as a promotor of our events. Examples include pictures, videos, your nickname, interests and preferences, your feedback, event participation and registration details. This information is used to organise events, communities, and to know more about you as a consumer."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Social Media information -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " includes information obtained through your interaction with us on various social media channels such as Facebook, Instagram, Google, etc This includes any social media information that is publicly available such as your social media handles, social media interactions and public postings, your “Likes” and other reactions, your social media connections, your photos that are publicly available, or those you send to us by mentioning us or following our social media posts by using “handles” or “hashtags”. We obtain this information from the social media network (e.g., Facebook, Snapchat, Instagram, etc.) directly or indirectly through third-party agencies we have agreements with."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Device information -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "includes information about your device or browser that give us an idea about your browsing behaviour or device usage. Your device and browser information are collected by our cookies, tags, and pixels. This is often required for the purpose of network security. This includes, but is not limited to IP address, date, and time of the visit, how long you remained on our website, the referral URL (if you came to our site via a different site or an advertisement), the pages visited on our website, your browser type, device type, versions and operating system."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Correspondence -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " includes conversations we have when you contact our customer service, the emails you write to us about our products or services, the complaints you address to us via post, e-mail, fax, chat, messenger, SMS or call, notes we prepare on your feedback, call backs from our Customer Service to you, and any other communication between you and an Oroton personnel. We record all Customer Service calls for quality assurance purposes."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Preference information -"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "includes preferred language, log-in location, Wishlist items, preferred shipping address, browsing preferences, our correspondence with you and your Oroton product reviews. This information is utilised to provide you convenience when you visit and/or shop on our website and app."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "How does Oroton collect your personal information?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Oroton generally collects your personal information directly from you, for instance when you visit us or interact with us in writing, electronically or on a call , you communicate with us through www.oroton.com, via customer service or our different platforms, portals and applications, or you participate in one of our promotions or events."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "What are the purposes for which Oroton collects, holds, uses, and discloses personal information?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Oroton collects, holds, uses, and discloses Personal Information for a range of purposes, including:"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": ""
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": ""
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": ""
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": ""
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": ""
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "title": "Update Tracking Preferences",
+            "items": [
+                {
+                    "type": "link",
+                    "style": "h5",
+                    "content": "Click here for Data erasure request",
+                    "href": "https://oroton.com/help/privacy-policy/"
+                }
+            ]
+        }
+    ]
+}

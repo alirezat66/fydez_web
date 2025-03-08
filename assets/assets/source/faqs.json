@@ -1,0 +1,428 @@
+{
+    "id": 3,
+    "title": "FAQs",
+    "description": "",
+    "items": [
+        {
+            "title": "Gift Wrapping",
+            "items": [
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Unfortunately we do not offer a gift wrapping service. Most bags will come with their own dust bag and wallets will arrive in an Oroton branded box. For more information regarding which styles do not come with a dust bag, please "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h4",
+                            "content": "contact us.",
+                            "href": "https://oroton.com/help/contact-us/"
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "For in store purchases, an Oroton branded carry bag will be provided."
+                }
+            ]
+        },
+        {
+            "title": "Payment Methods",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Oroton accepts Credit Cards (Visa, Mastercard, American Express, Union Pay), PayPal, Paypal Pay In 4, Afterpay, Klarna, Oroton Gift Cards/Credit Notes, Google Pay, Apple Pay, WeChat Pay and Alipay online and instore."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Klarna, Paypal Pay in 4 are only currently available online."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Online Credit Notes"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Are valid for 12 months from the date of issue and can only be used online."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Split Payments"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "If you have a Gift Card or online credit, you are eligible pay the remaining amount through any accepted payment method."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Unfortunately split payments are unavailable with WeChat Pay and Alipay. If you have placed a split payment order, using a Gift Card/online store credit, and any of these outlined payment methods, Customer Care will contact you and issue a refund accordingly."
+                }
+            ]
+        },
+        {
+            "title": "Can I Cancel My Online Order?",
+            "items": [
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Most online orders are fulfilled from our Sydney warehouse within a few hours, but please "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "contact us",
+                            "href": "https://oroton.com/help/contact-us/"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " and we may be able to cancel your order. Cancellation requests are not guaranteed."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Tax Invoice",
+            "items": [
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Your tax invoice can be accessed and downloaded at any time under the "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "My Account",
+                            "href": "https://oroton.com/login.php"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " section on our site."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Go to My Account > click order history > select order > print invoice."
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "If you opt to checkout as a guest, you will not be able to access your tax invoices this way. Please "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "contact us",
+                            "href": "https://oroton.com/help/contact-us/"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " for a copy of your tax invoice."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Returning & Exchanges",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "How do I return my online order?"
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Australian Returns"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "You can return your online purchase by mail free of charge within Australia 14 days from arrival date. Please print your pre-paid shipping label "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "here.",
+                            "href": "https://return.auspost.com.au/OROTON_AUSTRALIA"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Drop off your return parcel to any Australia Post Office so we can track it safely back to us."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Full price and faulty items are eligible for a refund, sale and discounted items are eligible for an Oroton credit. Unfortunately we do not offer online exchanges. FINAL SALE, pierced earrings and marks cannot be returned or exchanged unless faulty."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "In Store"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Please visit any of our Oroton Boutique or Oroton Factory Outlet stores within 14 days from arrival date. Please note that Paypal and Klarna purchases are only eligible for an exchange of the same value or more in store, and FINAL SALE items cannot be returned or exchanged unless faulty."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "International Returns"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "We do not cover the cost of international returns or provide online exchanges. If you wish to return your international order, please download "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "this",
+                            "href": "https://oroton.com/content/img/PDFs/Oroton_Returns_From_International.pdf"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "returns form, and follow the steps."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "How long does it take to process a refund?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Once your parcel arrives at our fulfillment centre, your refund will be processed back to the same account you’ve used to make your purchase in 3-5 business days."
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Any orders made via "
+                        },
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Afterpay, Klarna, Paypal Pay In 4"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " will be refunded and we will cancel any future payments."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Can I exchange my online order?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "You can bring your online order into your nearest Oroton store (excluding Myer or David Jones concession stores) for an exchange within 14 days of receiving your delivery. All items must be in their original condition with tags. Please note that we do not provide online exchanges."
+                }
+            ]
+        },
+        {
+            "title": "Promotions",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h6",
+                    "content": "Unless otherwise stated, sale prices, final sale prices and promotions are the same online and in store."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Why your promotion code may not be working:"
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Require you to Login or Checkout as a guest"
+                    }
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Have a minimum spend"
+                    }
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Have been redeemed already"
+                    }
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Not be valid on certain items"
+                    }
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Have expired"
+                    }
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Have been misspelt"
+                    }
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "View promotion "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h4",
+                            "content": "T&C's",
+                            "href": "https://oroton.com/help/promotion-policy/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wear & Tear",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Under our warranty we are able to cover the failure of hardware, components or workmanship. Falling outside of our warranty are the personal effects of wear and tear such as accidents, treatment which is inconsistent with our care instructions, and dismantling or repairs by persons other than recommended repair centres."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Example: A common effect of wear and tear is color migration from denim or dark materials onto light coloured leather. This effect of wear and tear is usually irreversible thus we recommend when purchasing Oroton products that you seek care advice from our Oroton staff members."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Does Oroton have a repair service?"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Unfortunately Oroton does not offer a repair service or stock spare parts. If you have a previous season or vintage Oroton product that requires repair, please feel free to contact your closest "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h4",
+                            "content": "Oroton store",
+                            "href": "https://oroton.com/store-locator/"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " for a recommendation for a local repair service."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Please note that Oroton is not responsible for items damaged by repair centres other than those recommended."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Dust Bags"
+                },
+                {
+                    "type": "text",
+                    "style": "h6",
+                    "content": "In an effort to be more environmentally conscious, please note that Oroton no longer provides dust bags for the following Outlet items: all items under $299, including crossbody bags; all non-leather collections i.e.: Ella, Signet Jacquard, etc."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Spare Parts"
+                },
+                {
+                    "type": "text",
+                    "style": "h6",
+                    "content": "Unfortunately Oroton does not provide or sell spare parts."
+                }
+            ]
+        }
+    ]
+}

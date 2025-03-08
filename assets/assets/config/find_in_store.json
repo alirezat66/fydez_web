@@ -1,0 +1,1688 @@
+{
+    "success": true,
+    "message": "",
+    "data": {
+        "AvailableStore": [
+            {
+                "store_id": "100",
+                "store": "100-Canberra centre",
+                "availability": false,
+                "store_data": {
+                    "id": 1638,
+                    "unique_id": "100",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-35.2809942",
+                        "longitude": "149.1213974",
+                        "country": "AU",
+                        "state": "ACT",
+                        "city": null,
+                        "postcode": "2601",
+                        "suburb": "Canberra",
+                        "street_name": null,
+                        "street_number": "148 Bunda Street",
+                        "address": "Shop CF22, Canberra Centre, Canberra ACT 2601",
+                        "address_1": "Shop CF22, Canberra Centre",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Canberra",
+                        "description": "Imported location",
+                        "phone": "(02) 6257 6856",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Tue": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Wed": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Thu": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Fri": [
+                            "09:00 am",
+                            "09:00 pm"
+                        ],
+                        "Sat": [
+                            "09:00 am",
+                            "05:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "04:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:33Z",
+                    "updated_at": "2021-08-27T02:08:33Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "102",
+                "store": "102-Chatswood",
+                "availability": false,
+                "store_data": {
+                    "id": 1646,
+                    "unique_id": "102",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-33.7969122",
+                        "longitude": "151.1781916",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2067",
+                        "suburb": "Chatswood",
+                        "street_name": null,
+                        "street_number": "345 Victoria Avenue",
+                        "address": "Shop L128, Gallery Level, Chatswood Chase, Chatswood NSW 2067",
+                        "address_1": "Shop L128, Gallery Level, Chatswood Chase",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Chatswood",
+                        "description": "Imported location",
+                        "phone": "(02) 9415 3567",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Tue": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Wed": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Thu": [
+                            "09:30 am",
+                            "09:00 pm"
+                        ],
+                        "Fri": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Sat": [
+                            "09:00 am",
+                            "05:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:34Z",
+                    "updated_at": "2021-08-27T02:08:34Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "104",
+                "store": "104-Parramatta Westfield",
+                "availability": false,
+                "store_data": {
+                    "id": 1641,
+                    "unique_id": "104",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-33.8151823",
+                        "longitude": "151.0092954",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2150",
+                        "suburb": "Parramatta",
+                        "street_name": null,
+                        "street_number": "159-175 Church Street",
+                        "address": "Shop 4051-4052, Westfield Parramatta, Parramatta NSW 2150",
+                        "address_1": "Shop 4051-4052, Westfield Parramatta",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Parramatta",
+                        "description": "Imported location",
+                        "phone": "(02) 9687 0393",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Wed": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "09:30 am",
+                            "09:00 pm"
+                        ],
+                        "Fri": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Sat": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:33Z",
+                    "updated_at": "2021-08-27T02:08:33Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "108",
+                "store": "108-Warringah Westfield",
+                "availability": false,
+                "store_data": {
+                    "id": 1655,
+                    "unique_id": "108",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-33.7645979",
+                        "longitude": "151.2627078",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2100",
+                        "suburb": "Brookvale",
+                        "street_name": null,
+                        "street_number": "Cnr Old Pittwater Rd & Condamine Street",
+                        "address": "Shop 1056, Warringah Mall, Brookvale NSW 2100",
+                        "address_1": "Shop 1056, Warringah Mall",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Warringah Mall",
+                        "description": "Imported location",
+                        "phone": "(02) 9905 4120",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Tue": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Wed": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Thu": [
+                            "09:00 am",
+                            "09:00 pm"
+                        ],
+                        "Fri": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Sat": [
+                            "09:00 am",
+                            "05:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:34Z",
+                    "updated_at": "2021-08-27T02:08:34Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "115",
+                "store": "115-Miranda Westfield",
+                "availability": false,
+                "store_data": {
+                    "id": 1644,
+                    "unique_id": "115",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-34.03825",
+                        "longitude": "151.1024569",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2228",
+                        "suburb": "Miranda",
+                        "street_name": null,
+                        "street_number": "600 Kingsway",
+                        "address": "Shop 2151, Myer Westfield Miranda, Miranda NSW 2228",
+                        "address_1": "Shop 2151, Myer Westfield Miranda",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Miranda",
+                        "description": "Imported location",
+                        "phone": "(02) 9540 9879",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Wed": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "09:30 am",
+                            "09:00 pm"
+                        ],
+                        "Fri": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Sat": [
+                            "09:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "05:45 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:34Z",
+                    "updated_at": "2021-08-27T02:08:34Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "119",
+                "store": "119-QVB",
+                "availability": false,
+                "store_data": {
+                    "id": 1650,
+                    "unique_id": "119",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-33.8708464",
+                        "longitude": "151.20733",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2000",
+                        "suburb": "Sydney",
+                        "street_name": null,
+                        "street_number": "455 George Street",
+                        "address": "Shop 32, Ground Floor, QVB, Sydney NSW 2000",
+                        "address_1": "Shop 32, Ground Floor, QVB",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton QVB Sydney",
+                        "description": "Imported location",
+                        "phone": "0434 709 151",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "08:00 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sat": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "11:00 am",
+                            "05:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:34Z",
+                    "updated_at": "2021-08-27T02:08:34Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "123",
+                "store": "123-Kotara Westfield",
+                "availability": false,
+                "store_data": {
+                    "id": 1657,
+                    "unique_id": "123",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-32.9481404",
+                        "longitude": "151.7064109",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2289",
+                        "suburb": "Kotara",
+                        "street_name": null,
+                        "street_number": "2059 Northcott Drive",
+                        "address": "Westfield Kotara, Kotara NSW 2289",
+                        "address_1": "Westfield Kotara",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Kotara",
+                        "description": "Imported location",
+                        "phone": "0468 303 182",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Tue": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Wed": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Thu": [
+                            "09:00 am",
+                            "07:00 pm"
+                        ],
+                        "Fri": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Sat": [
+                            "09:00 am",
+                            "05:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "04:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:35Z",
+                    "updated_at": "2021-08-27T02:08:35Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "125",
+                "store": "125-Burwood Westfield",
+                "availability": false,
+                "store_data": {
+                    "id": 1643,
+                    "unique_id": "125",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-33.8799121",
+                        "longitude": "151.1024569",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2134",
+                        "suburb": "Burwood",
+                        "street_name": null,
+                        "street_number": null,
+                        "address": "100 Burwood Road, Burwood NSW 2134",
+                        "address_1": "100 Burwood Road",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Burwood",
+                        "description": "Imported location",
+                        "phone": "(02) 9745 5970",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Wed": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "09:30 am",
+                            "09:00 pm"
+                        ],
+                        "Fri": [
+                            "09:30 am",
+                            "06:00 pm"
+                        ],
+                        "Sat": [
+                            "09:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:34Z",
+                    "updated_at": "2021-08-27T02:08:34Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "127",
+                "store": "127-Sydney Domestic Airport",
+                "availability": false,
+                "store_data": {
+                    "id": 1648,
+                    "unique_id": "127",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-33.9383158",
+                        "longitude": "151.1811052",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2020",
+                        "suburb": "Mascot",
+                        "street_name": null,
+                        "street_number": "64 Qantas Drive",
+                        "address": "Oroton Sydney T3 Domestic Airport, Mascot NSW 2020",
+                        "address_1": "Oroton Sydney T3 Domestic Airport",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Sydney Domestic Airport",
+                        "description": "Imported location",
+                        "phone": "(02) 9669 4795",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "07:00 am",
+                            "03:00 pm"
+                        ],
+                        "Tue": [
+                            "07:00 am",
+                            "03:00 pm"
+                        ],
+                        "Wed": [
+                            "07:00 am",
+                            "03:00 pm"
+                        ],
+                        "Thu": [
+                            "07:00 am",
+                            "05:00 pm"
+                        ],
+                        "Fri": [
+                            "07:00 am",
+                            "05:00 pm"
+                        ],
+                        "Sat": [
+                            "08:00 am",
+                            "03:00 pm"
+                        ],
+                        "Sun": [
+                            "08:00 am",
+                            "03:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:34Z",
+                    "updated_at": "2021-08-27T02:08:34Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "131",
+                "store": "131-Chadstone",
+                "availability": false,
+                "store_data": {
+                    "id": 1634,
+                    "unique_id": "131",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-37.8819831",
+                        "longitude": "145.0989646",
+                        "country": "AU",
+                        "state": "VIC",
+                        "city": null,
+                        "postcode": "3148",
+                        "suburb": "Chadstone",
+                        "street_name": null,
+                        "street_number": "1341 Dandenong Road",
+                        "address": "Groud Level, Chadstone Shopping Centre, Chadstone VIC 3148",
+                        "address_1": "Groud Level, Chadstone Shopping Centre",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Chadstone",
+                        "description": "Imported location",
+                        "phone": "(03) 9568 6170",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Tue": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Wed": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Thu": [
+                            "09:00 am",
+                            "09:00 pm"
+                        ],
+                        "Fri": [
+                            "09:00 am",
+                            "09:00 pm"
+                        ],
+                        "Sat": [
+                            "09:00 am",
+                            "09:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "07:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:33Z",
+                    "updated_at": "2021-08-27T02:08:33Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "136",
+                "store": "136-Emporium",
+                "availability": false,
+                "store_data": {
+                    "id": 1626,
+                    "unique_id": "136",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-37.8152065",
+                        "longitude": "144.963937",
+                        "country": "AU",
+                        "state": "VIC",
+                        "city": null,
+                        "postcode": "3000",
+                        "suburb": "Melbourne",
+                        "street_name": null,
+                        "street_number": "295 Lonsdale Street",
+                        "address": "Shop G-035, Emporium Melbourne, Melbourne VIC 3000",
+                        "address_1": "Shop G-035, Emporium Melbourne",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Emporium",
+                        "description": "Imported location",
+                        "phone": "(03) 9663 7495",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "07:00 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "07:00 pm"
+                        ],
+                        "Sat": [
+                            "10:00 am",
+                            "07:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "07:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:32Z",
+                    "updated_at": "2021-08-27T02:08:32Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "158",
+                "store": "158-Nunawading Outlet",
+                "availability": false,
+                "store_data": {
+                    "id": 1636,
+                    "unique_id": "158",
+                    "type": [
+                        {
+                            "name": "Outlet",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-37.8239091",
+                        "longitude": "145.1762197",
+                        "country": "AU",
+                        "state": "VIC",
+                        "city": null,
+                        "postcode": "3131",
+                        "suburb": "Nunawading",
+                        "street_name": null,
+                        "street_number": "288 Whitehorse Road",
+                        "address": "Shop 02, Brand Smart Premium Outlet Mall, Nunawading VIC 3131",
+                        "address_1": "Shop 02, Brand Smart Premium Outlet Mall",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Nunawading",
+                        "description": "Imported location",
+                        "phone": "(03) 9877 9956",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sat": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:33Z",
+                    "updated_at": "2021-08-27T02:08:33Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "160",
+                "store": "160-Pacific Fair",
+                "availability": false,
+                "store_data": {
+                    "id": 1664,
+                    "unique_id": "160",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-28.0396814",
+                        "longitude": "153.4213208",
+                        "country": "AU",
+                        "state": "QLD",
+                        "city": null,
+                        "postcode": "4218",
+                        "suburb": "Broadbeach",
+                        "street_name": null,
+                        "street_number": "Hooker Boulevard",
+                        "address": "Ground Floor, Shop 1579, Broadbeach QLD 4218",
+                        "address_1": "Ground Floor, Shop 1579",
+                        "address_2": "Pacific Fair Shopping Centre"
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Pacific Fair",
+                        "description": "Imported location",
+                        "phone": "(07) 5526 0177",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "05:30 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "05:30 pm"
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "05:30 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "09:00 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "05:30 pm"
+                        ],
+                        "Sat": [
+                            "10:00 am",
+                            "05:30 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:35Z",
+                    "updated_at": "2021-08-27T02:08:35Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "170",
+                "store": "170-Armadale",
+                "availability": false,
+                "store_data": {
+                    "id": 1631,
+                    "unique_id": "170",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-37.8576761",
+                        "longitude": "145.015057",
+                        "country": null,
+                        "state": "VIC",
+                        "city": null,
+                        "postcode": "3143",
+                        "suburb": "Armadale",
+                        "street_name": null,
+                        "street_number": null,
+                        "address": "1039 High St, Armadale VIC 3143",
+                        "address_1": "1039 High St",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Armadale",
+                        "description": null,
+                        "phone": "(03) 8849 9728",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Tue": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Wed": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Thu": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Fri": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Sat": [
+                            "09:30 am",
+                            "05:30 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "05:30 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:33Z",
+                    "updated_at": "2021-08-27T02:08:33Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "184",
+                "store": "184-Doncaster Westfield",
+                "availability": false,
+                "store_data": {
+                    "id": 1635,
+                    "unique_id": "184",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-37.7865824",
+                        "longitude": "145.1210303",
+                        "country": "AU",
+                        "state": "VIC",
+                        "city": null,
+                        "postcode": "3108",
+                        "suburb": "Doncaster",
+                        "street_name": null,
+                        "street_number": "619 Doncaster Road",
+                        "address": "Shop 1153, Level 1, Westfield Doncaster, Doncaster VIC 3108",
+                        "address_1": "Shop 1153, Level 1, Westfield Doncaster",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Doncaster",
+                        "description": "Imported location",
+                        "phone": "(03) 9840 7751",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Tue": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Wed": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Thu": [
+                            "09:00 am",
+                            "09:00 pm"
+                        ],
+                        "Fri": [
+                            "09:00 am",
+                            "09:00 pm"
+                        ],
+                        "Sat": [
+                            "09:00 am",
+                            "09:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:33Z",
+                    "updated_at": "2021-08-27T02:08:33Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "187",
+                "store": "187-Sydney Westfield",
+                "availability": false,
+                "store_data": {
+                    "id": 1649,
+                    "unique_id": "187",
+                    "type": [
+                        {
+                            "name": "Boutique",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-33.8708464",
+                        "longitude": "151.20733",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2000",
+                        "suburb": "Sydney",
+                        "street_name": null,
+                        "street_number": "188 Pitt Street",
+                        "address": "Shop 2010, Level 2, Westfield Sydney, Sydney NSW 2000",
+                        "address_1": "Shop 2010, Level 2, Westfield Sydney",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Westfield Pitt St",
+                        "description": "Imported location",
+                        "phone": "(02) 9233 5968",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "07:00 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ],
+                        "Sat": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:34Z",
+                    "updated_at": "2021-08-27T02:08:34Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "402",
+                "store": "402-BirkenHead Point Outlet",
+                "availability": false,
+                "store_data": {
+                    "id": 1645,
+                    "unique_id": "402",
+                    "type": [
+                        {
+                            "name": "Outlet",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-33.8523805",
+                        "longitude": "151.1548847",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2047",
+                        "suburb": "Drummoyne",
+                        "street_name": null,
+                        "street_number": "19 Roseby Street",
+                        "address": "Shop 35, Level 2, Birkenhead Point, Drummoyne NSW 2047",
+                        "address_1": "Shop 35, Level 2, Birkenhead Point",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Birkenhead Sydney",
+                        "description": "Imported location",
+                        "phone": "(02) 9181 4704",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "05:30 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "05:30 pm"
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "05:30 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "07:30 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "05:30 pm"
+                        ],
+                        "Sat": [
+                            "09:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:34Z",
+                    "updated_at": "2021-08-27T02:08:34Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "403",
+                "store": "403-Homebush DFO Outlet",
+                "availability": false,
+                "store_data": {
+                    "id": 1642,
+                    "unique_id": "403",
+                    "type": [
+                        {
+                            "name": "Outlet",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-33.858623",
+                        "longitude": "151.0791612",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2140",
+                        "suburb": "Homebush",
+                        "street_name": null,
+                        "street_number": "3-5 Underwood Road",
+                        "address": "Shop 3-027, DFO Homebush, Homebush NSW 2140",
+                        "address_1": "Shop 3-027, DFO Homebush",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton DFO Homebush",
+                        "description": "Imported location",
+                        "phone": "(02) 9764 6495",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "07:00 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sat": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:33Z",
+                    "updated_at": "2021-08-27T02:08:33Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "407",
+                "store": "407-Liverpool Outlet",
+                "availability": false,
+                "store_data": {
+                    "id": 1640,
+                    "unique_id": "407",
+                    "type": [
+                        {
+                            "name": "Outlet",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-33.9477825",
+                        "longitude": "150.9190988",
+                        "country": "AU",
+                        "state": "NSW",
+                        "city": null,
+                        "postcode": "2170",
+                        "suburb": "Liverpool",
+                        "street_name": null,
+                        "street_number": "5 Viscount Place",
+                        "address": "Shop 10, Liverpool Fashion Spree Outlets, Liverpool NSW 2170",
+                        "address_1": "Shop 10, Liverpool Fashion Spree Outlets",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Liverpool",
+                        "description": "Imported location",
+                        "phone": "(02) 9601 2535",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "09:00 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sat": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:33Z",
+                    "updated_at": "2021-08-27T02:08:33Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "420",
+                "store": "420-Canberra Outlet",
+                "availability": false,
+                "store_data": {
+                    "id": 1639,
+                    "unique_id": "420",
+                    "type": [
+                        {
+                            "name": "Outlet",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-35.2736652",
+                        "longitude": "149.2190324",
+                        "country": "AU",
+                        "state": "ACT",
+                        "city": null,
+                        "postcode": "2609",
+                        "suburb": "Fyshwick",
+                        "street_name": null,
+                        "street_number": "337 Canberra Avenue",
+                        "address": "Shop 581, Canberra Outlet Centre, Fyshwick ACT 2609",
+                        "address_1": "Shop 581, Canberra Outlet Centre",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Fyshwick",
+                        "description": "Imported location",
+                        "phone": "(02) 6239 3269",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "06:00 pm"
+                        
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sat": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:33Z",
+                    "updated_at": "2021-08-27T02:08:33Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "432",
+                "store": "432-Essendon North",
+                "availability": false,
+                "store_data": {
+                    "id": 1625,
+                    "unique_id": "432",
+                    "type": [
+                        {
+                            "name": "Outlet",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-37.7306079",
+                        "longitude": "144.9006313",
+                        "country": "AU",
+                        "state": "VIC",
+                        "city": null,
+                        "postcode": "3041",
+                        "suburb": "Essendon North",
+                        "street_name": null,
+                        "street_number": "100 Bulla Road",
+                        "address": "Shop T105, DFO Essendon, Essendon North VIC 3041",
+                        "address_1": "Shop T105, DFO Essendon",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Essendon",
+                        "description": "Imported location",
+                        "phone": "(03) 9379 9022",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sat": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:32Z",
+                    "updated_at": "2021-08-27T02:08:32Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "433",
+                "store": "433-Mooorabbin DFO Outlet",
+                "availability": false,
+                "store_data": {
+                    "id": 1632,
+                    "unique_id": "433",
+                    "type": [
+                        {
+                            "name": "Outlet",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-37.9786189",
+                        "longitude": "145.0741474",
+                        "country": "AU",
+                        "state": "VIC",
+                        "city": null,
+                        "postcode": "3194",
+                        "suburb": "Moorabbin",
+                        "street_name": null,
+                        "street_number": "250 Centre Dandenong Road",
+                        "address": "Store G155, DFO Moorabbin Airport, Moorabbin VIC 3194",
+                        "address_1": "Store G155, DFO Moorabbin Airport",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Moorabbin",
+                        "description": "Imported location",
+                        "phone": "(03) 9583 1437",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Tue": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Wed": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Thu": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Fri": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sat": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "06:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:33Z",
+                    "updated_at": "2021-08-27T02:08:33Z",
+                    "custom_fields": []
+                }
+            },
+            {
+                "store_id": "460",
+                "store": "460-Gold Coast Harbourtown Outlet",
+                "availability": false,
+                "store_data": {
+                    "id": 1663,
+                    "unique_id": "460",
+                    "type": [
+                        {
+                            "name": "Outlet",
+                            "color": "#000000"
+                        }
+                    ],
+                    "permanently_closed": false,
+                    "location": {
+                        "latitude": "-27.9004034",
+                        "longitude": "153.4036287",
+                        "country": "AU",
+                        "state": "QLD",
+                        "city": null,
+                        "postcode": "4216",
+                        "suburb": "Biggera Waters",
+                        "street_name": null,
+                        "street_number": "Brisbane Road",
+                        "address": "Unit C48, Harbour Town Premium Outlets, Biggera Waters QLD 4216",
+                        "address_1": "Unit C48, Harbour Town Premium Outlets",
+                        "address_2": null
+                    },
+                    "shipping_method": {
+                        "expressShipping": false,
+                        "clickAndCollect": false
+                    },
+                    "store": {
+                        "name": "Oroton Harbour Town",
+                        "description": "Imported location",
+                        "phone": "(07) 5563 7266",
+                        "email": null
+                    },
+                    "timetable": {
+                        "Mon": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Tue": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Wed": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Thu": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Fri": [
+                            "09:00 am",
+                            "07:00 pm"
+                        ],
+                        "Sat": [
+                            "09:00 am",
+                            "05:30 pm"
+                        ],
+                        "Sun": [
+                            "10:00 am",
+                            "05:00 pm"
+                        ]
+                    },
+                    "created_at": "2021-08-27T02:08:35Z",
+                    "updated_at": "2021-08-27T02:08:35Z",
+                    "custom_fields": []
+                }
+            }
+        ]
+    }
+}

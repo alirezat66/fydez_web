@@ -1,0 +1,1523 @@
+{
+  "lastPage": 12,
+  "payload": {
+    "splash_page": {
+      "duration": {
+        "label": "2 Seconds",
+        "value": 2000
+      },
+      "animationType": {
+        "label": "Linear",
+        "value": "Linear"
+      },
+      "backgroundColor": {
+        "label": "white",
+        "value": "#FFFFFF"
+      },
+      "logo": "https://fydez-assets.s3.amazonaws.com/3b073a40e11c4d82a80b6d6224b83a15.jpg",
+      "responsiveImage": {
+        "logo": "https://fydez-assets.s3.amazonaws.com/3b073a40e11c4d82a80b6d6224b83a15.jpg",
+        "width": 0,
+        "height": 0
+      },
+      "animationDuration": {
+        "label": "Medium",
+        "value": 1000
+      },
+      "delay": 200
+    },
+    "onboarding_page": {
+      "hasOnboarding": true,
+      "ratio": {
+        "label": "full",
+        "value": "full"
+      },
+      "animation": {
+        "label": "Linear",
+        "value": "Linear"
+      },
+      "duration": {
+        "label": "2 seconds",
+        "value": 2000
+      },
+      "buttonType": {
+        "label": "Text",
+        "value": "text"
+      },
+      "buttonTextColor": {
+        "label": "Blue",
+        "value": "#009EFF"
+      },
+      "items": [
+        {
+          "title": "Quality Is Our Focus",
+          "description": "We ensure superior quality and variety as well as first-class personal customer service.",
+          "imagePath": "https://fydez-assets.s3.amazonaws.com/ab1f076446284efcb3fbc416528f8abc.jpg",
+          "responsiveImage": {
+            "imagePath": "https://fydez-assets.s3.amazonaws.com/ab1f076446284efcb3fbc416528f8abc.jpg",
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "title": "Scarves Lux Hub!",
+          "description": " Wrap youself in luxury with Scarves Australia's exclusive app perks!",
+          "imagePath": "https://fydez-assets.s3.amazonaws.com/6e1eb0ff7506414e801f0db30c263ee7.jpeg",
+          "responsiveImage": {
+            "imagePath": "https://fydez-assets.s3.amazonaws.com/6e1eb0ff7506414e801f0db30c263ee7.jpeg",
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "title": " Shopping made Easy",
+          "description": "Effortless personalised browsing, seamless checkout, just on our app!",
+          "imagePath": "https://fydez-assets.s3.amazonaws.com/f156170941764e30b90193c56b190603.jpeg",
+          "responsiveImage": {
+            "imagePath": "https://fydez-assets.s3.amazonaws.com/f156170941764e30b90193c56b190603.jpeg",
+            "width": 0,
+            "height": 0
+          }
+        }
+      ]
+    },
+    "register_page": {
+      "title": "Join us",
+      "buttonTitle": "Join us",
+      "emailPlaceHolder": "Email placeholder",
+      "description": "We wish for you a pleasant colourful and enjoyable online experience shopping at Scarves Australia.",
+      "userGuide": "Already have an account?",
+      "confirmPassword": "Confirm password ",
+      "password": "Password",
+      "fullNamePlaceholder": "Full name placeholder",
+      "loginButtonTitle": "Login",
+      "phoneNumberPlaceholder": "04X XXX XXXX",
+      "privacyPolicy": "Join the world of Scarves. By opting in, you consent to email and mobile marketing messages from Scarves Australia.",
+      "logo": "https://fydez-assets.s3.amazonaws.com/f7c9b3016db84ebfbbfd760232446d44.png"
+    },
+    "login_page": {
+      "buttonTitle": "Log in",
+      "title": "Login",
+      "forgetPasswordTitle": "Cant remember your password?",
+      "registrationButtonTitle": "Join us",
+      "passwordPlaceHolder": "Password",
+      "emailPlaceHolder": "Example@mail.com",
+      "description": "Unique scarves for real people at affordable prices.",
+      "userGuide": "Don’t have an account?",
+      "logo": "https://fydez-assets.s3.amazonaws.com/4d6925f475634e27a6f9bb2450457fbb.png",
+      "isEnableOtp": false,
+      "otpInformation": {
+        "title": "Login/Register",
+        "description": "Please provide us with a valid email to login/register",
+        "emailPlaceHolder": "john@doe.com",
+        "buttonTitle": "test",
+        "multiPassSecretCode": null
+      }
+    },
+    "forget_password_page": {
+      "title": "Forget password",
+      "buttonTitle": "Reset password",
+      "emailPlaceHolder": "Email",
+      "description": "Fill in your email below to request a new password. An email will be sent to the address below containing a link to verify your email address."
+    },
+    "welcome_page": {
+      "hasWelcome": true,
+      "backgroundColor": {
+        "label": "black",
+        "value": "#000000"
+      },
+      "animation": {
+        "label": "Linear",
+        "value": "Linear"
+      },
+      "duration": {
+        "label": "2 seconds",
+        "value": 2000
+      },
+      "title": "Welcome!",
+      "titleColor": {
+        "label": "White",
+        "value": "#ffffff"
+      },
+      "description": "Thanks for becoming a member!",
+      "descriptionColor": {
+        "label": "gray",
+        "value": "#B4B4B4"
+      },
+      "logo": "https://fydez-assets.s3.amazonaws.com/a0676ac725b5437e810e5c7364493f6f.png",
+      "logoResponsiveImage": {
+        "logo": "https://fydez-assets.s3.amazonaws.com/a0676ac725b5437e810e5c7364493f6f.png",
+        "width": 0,
+        "height": 0
+      },
+      "backgroundImage": "https://fydez-assets.s3.amazonaws.com/73eca870c7214ff999be1fe4dbed1e3d.jpg",
+      "backgroundImageResponsiveImage": {
+        "logo": "https://fydez-assets.s3.amazonaws.com/73eca870c7214ff999be1fe4dbed1e3d.jpg",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "homePage": {
+      "hasHome": true,
+      "items": [
+        {
+          "type": "image",
+          "data": {
+            "id": "45d3613a-35d8-4eba-8369-8cc9e9a59ae1",
+            "style": {
+              "label": "Bordered",
+              "value": "border"
+            },
+            "image": "https://fydez-assets.s3.amazonaws.com/6e0d2107d73d48639f22e91a2cba083b.JPG",
+            "cta": {
+              "type": {
+                "label": "Category",
+                "value": "category"
+              },
+              "url": "165845925941",
+              "label": "OUR BEST SELLERS"
+            },
+            "size": {
+              "label": "Square 1:1",
+              "value": "Square"
+            }
+          }
+        },
+        {
+          "type": "image",
+          "data": {
+            "id": "a1db9cab-75f4-4391-b110-2b664305b596",
+            "style": {
+              "label": "Bordered",
+              "value": "border"
+            },
+            "image": "https://fydez-assets.s3.amazonaws.com/ae4fc79d5f90415c89ab9221ff3351ea.JPG",
+            "cta": {
+              "type": {
+                "label": "Category",
+                "value": "category"
+              },
+              "url": "260930469941",
+              "label": "NEW IN"
+            },
+            "size": {
+              "label": "Square 1:1",
+              "value": "Square"
+            }
+          }
+        },
+        {
+          "type": "image",
+          "data": {
+            "id": "40e2fb9d-67a7-42c7-a00b-8a185ea2e9d4",
+            "style": {
+              "label": "Fit",
+              "value": "fit"
+            },
+            "image": "https://fydez-assets.s3.amazonaws.com/d7f8c68c5946434db442d99dc7589ac8.png",
+            "cta": {
+              "type": {
+                "label": "Category",
+                "value": "category"
+              },
+              "url": "282661847093",
+              "label": "MENS SCARF/UNISEX COLLECTION"
+            }
+          }
+        },
+        {
+          "type": "count_down_timer",
+          "data": {
+            "id": "374ab25a-d4a1-4010-a83b-51cf2f99c604",
+            "title": "Mobile Specials",
+            "titleColor": {
+              "label": "white",
+              "value": "#FFFFFF"
+            },
+            "startTime": "2024-03-14T12:00:00.000Z",
+            "startDateWeb": "2024-06-04T13:15:42.000Z",
+            "startDate": "2024-06-04T23:00:00 +11:00",
+            "endTime": "2024-03-14T12:15:42.991Z",
+            "endDateWeb": "2024-08-20T13:15:42.000Z",
+            "endDate": "2024-08-20T23:15:42 +11:00",
+            "image": {
+              "blobUrl": "https://fydez-assets.s3.amazonaws.com/e7f217f253a14bf194f4f9b80feaf628.jpg",
+              "file": null
+            },
+            "cornerRadius": 12,
+            "cta": {
+              "type": {
+                "label": "Category",
+                "value": "category"
+              },
+              "url": "165845925941",
+              "label": "OUR BEST SELLERS"
+            }
+          }
+        },
+        {
+          "type": "image",
+          "data": {
+            "id": "8f0cfd05-cff8-4ac7-887a-474337c1ad96",
+            "style": {
+              "label": "Fit",
+              "value": "fit"
+            },
+            "image": "https://fydez-assets.s3.amazonaws.com/f0101f3d8e2441ed93ed4283c24c63fe.jpg",
+            "cta": {
+              "type": {
+                "label": "Category",
+                "value": "category"
+              },
+              "url": "165059231797",
+              "label": "LUXURY SHAWLS COLLECTION"
+            }
+          }
+        },
+        {
+          "type": "carousel",
+          "data": {
+            "items": [
+              {
+                "type": "product",
+                "productId": 6834555945013,
+                "productName": "⭐️ Luxury Pure Cashmere Pashmina - Natural Off White",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/products/scarves-australia-luxury-scarves-pure-cashmere-pashmina-off-white-luxury-31450435616821.jpg?v=1720435763"
+                },
+                "price": {
+                  "finalPrice": 189,
+                  "price": 189,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo2ODM0NTU1OTQ1MDEzLCJsYXN0X3ZhbHVlIjo4OX0=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 6687027396661,
+                "productName": "Cotton Linen Scarf -Multi Floral Delight - Multicoloured Scarf",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/products/scarves-australia-apparel-accessories-linen-scarf-multi-floral-delight-30986805575733.jpg?v=1665746847"
+                },
+                "price": {
+                  "finalPrice": 99,
+                  "price": 99,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo2Njg3MDI3Mzk2NjYxLCJsYXN0X3ZhbHVlIjo0OH0=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 6670791704629,
+                "productName": "Lightweght Cotton  Scarf - Ombre - Blue Ocean",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/products/scarves-australia-apparel-accessories-ocean-blue-to-navy-summer-scarf-ombre-30221085966389.jpg?v=1700360093"
+                },
+                "price": {
+                  "finalPrice": 89,
+                  "price": 89,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo2NjcwNzkxNzA0NjI5LCJsYXN0X3ZhbHVlIjozNH0=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 5015361290293,
+                "productName": "⭐️ Linen Cotton Scarf Pastel Multicoloured",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/products/scarves-australia-linen-scarves-linen-scarf-pastel-multicoloured-33553874354229.heic?v=1676165688"
+                },
+                "price": {
+                  "finalPrice": 99,
+                  "price": 99,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo1MDE1MzYxMjkwMjkzLCJsYXN0X3ZhbHVlIjozMX0=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 5015565500469,
+                "productName": "🌟 Ombre Cotton Linen Scarf Charcoal Smokey Lilac",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/products/scarves-australia-luxury-scarves-linen-scarf-charcoal-smokey-lilac-29118733549621.jpg?v=1717820569"
+                },
+                "price": {
+                  "finalPrice": 89,
+                  "price": 89,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo1MDE1NTY1NTAwNDY5LCJsYXN0X3ZhbHVlIjoyOX0=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 6687018778677,
+                "productName": "💙  Cotton Linen Scarf Blue Ocean",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/products/scarves-australia-apparel-accessories-cotton-linen-scarf-blue-ocean-30986768646197.jpg?v=1710656651"
+                },
+                "price": {
+                  "finalPrice": 99,
+                  "price": 99,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo2Njg3MDE4Nzc4Njc3LCJsYXN0X3ZhbHVlIjoyNH0=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 7089799036981,
+                "productName": "⭐️Pashmina Shawl - Deep Blue - Pure Cashmere",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/products/scarves-australia-scarves-shawls-pashmina-shawl-deep-blue-pure-cashmere-32985282314293.jpg?v=1696750169"
+                },
+                "price": {
+                  "finalPrice": 189,
+                  "price": 189,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo3MDg5Nzk5MDM2OTgxLCJsYXN0X3ZhbHVlIjoxOX0=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 7350251028533,
+                "productName": "❤️Red Poppy Scarf - Floral Scarf- Luxury Silk Modal Scarf",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/files/scarves-australia-luxury-scarves-red-poppy-scarf-floral-scarf-luxury-modal-scarf-34481721868341.jpg?v=1707722737"
+                },
+                "price": {
+                  "finalPrice": 115,
+                  "price": 115,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo3MzUwMjUxMDI4NTMzLCJsYXN0X3ZhbHVlIjoxN30=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 6896196845621,
+                "productName": "⭐️ Pure Cashmere Shawl - Golden Sand",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/products/scarves-australia-luxury-scarves-pure-cashmere-scarves-pashmina-luxury-golden-sand-32622211825717.jpg?v=1668562316"
+                },
+                "price": {
+                  "finalPrice": 179,
+                  "price": 179,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo2ODk2MTk2ODQ1NjIxLCJsYXN0X3ZhbHVlIjoxNn0=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 5015362338869,
+                "productName": "🌸 Linen Cotton Scarf Pink Purple Ombre",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/products/scarves-australia-linen-scarf-linen-cotton-scarf-pink-purple-ombre-22178884255797.png?v=1641522906"
+                },
+                "price": {
+                  "finalPrice": 99,
+                  "price": 99,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo1MDE1MzYyMzM4ODY5LCJsYXN0X3ZhbHVlIjoxNX0=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 6687013699637,
+                "productName": "Cotton Linen Scarf - Teal Green Ombre - Linen Cotton",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/products/scarves-australia-apparel-accessories-teal-green-scarf-ombre-linen-cotton-30987113070645.jpg?v=1710656322"
+                },
+                "price": {
+                  "finalPrice": 89,
+                  "price": 89,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo2Njg3MDEzNjk5NjM3LCJsYXN0X3ZhbHVlIjoxNH0=",
+                "options": null,
+                "Variants": null
+              },
+              {
+                "type": "product",
+                "productId": 6893700710453,
+                "productName": "Floral Scarf -Pure Fine Wool - Teal Scarf Shawl",
+                "picture": {
+                  "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/files/scarves-australia-apparel-accessories-floral-scarf-pure-wool-teal-scarf-shawl-35068325625909.png?v=1717474941"
+                },
+                "price": {
+                  "finalPrice": 139,
+                  "price": 139,
+                  "maxVariantPrice": null,
+                  "minVariantPrice": null
+                },
+                "tag": null,
+                "NexPageIndex": "eyJsYXN0X2lkIjo2ODkzNzAwNzEwNDUzLCJsYXN0X3ZhbHVlIjoxMn0=",
+                "options": null,
+                "Variants": null
+              }
+            ],
+            "id": "15bad50e-05a5-475d-b7d5-41312285118f",
+            "title": "Some of our products",
+            "type": {
+              "label": "Product",
+              "value": "product"
+            },
+            "collection": {
+              "label": "NATURAL HANDMADE COLLECTION",
+              "value": "277133000757"
+            },
+            "productCount": {
+              "label": 6,
+              "value": 6
+            }
+          }
+        },
+        {
+          "type": "pre_slider",
+          "data": {
+            "id": "2a7e11d4-dfd4-42ea-96fb-a6328ef73fbb",
+            "images": [
+              {
+                "blobUrl": "https://fydez-assets.s3.amazonaws.com/cf0682dce8e94500939be35c580aefcf.JPG",
+                "file": ""
+              },
+              {
+                "blobUrl": "https://fydez-assets.s3.amazonaws.com/d4aed208d42b4cbe9c1970d1b4fd09c3.jpg",
+                "file": ""
+              },
+              {
+                "blobUrl": "https://fydez-assets.s3.amazonaws.com/28422bce49fc4360a79d2e847df43c29.jpg",
+                "file": ""
+              }
+            ]
+          }
+        },
+        {
+          "type": "image",
+          "data": {
+            "id": "76a0ca86-ee11-4bb3-90b3-4bdfca5ca124",
+            "style": {
+              "label": "Bordered",
+              "value": "border"
+            },
+            "image": "https://fydez-assets.s3.amazonaws.com/4244785e48884906ba2d8f236283ddf5.gif",
+            "cta": {
+              "type": {
+                "label": "Product",
+                "value": "product"
+              },
+              "url": "7589159960629",
+              "label": "Navy Green Floral Scarf - Pure Fine Wool Shawl"
+            },
+            "size": {
+              "label": "Square 1:1",
+              "value": "Square"
+            }
+          }
+        },
+        {
+          "type": "image",
+          "data": {
+            "id": "fbbc9922-3b3f-42d9-86ae-13c10be2eb4f",
+            "style": {
+              "label": "Bordered",
+              "value": "border"
+            },
+            "image": "https://fydez-assets.s3.amazonaws.com/1fb96dd79332446cb4e5c39419063c8b.png",
+            "responsiveImage": {
+              "image": "https://fydez-assets.s3.amazonaws.com/1fb96dd79332446cb4e5c39419063c8b.png",
+              "width": 1080,
+              "height": 1080
+            },
+            "cta": {
+              "type": {
+                "label": "Product",
+                "value": "product"
+              },
+              "url": "4653889290293",
+              "label": "Gift Cards"
+            },
+            "size": {
+              "label": "Square 1:1",
+              "value": "Square"
+            }
+          }
+        }
+      ]
+    },
+    "shop": {
+      "logo": {
+        "blobUrl": "https://fydez-assets.s3.amazonaws.com/48cd16ba7c3e4c0ea711a154a6955177.png",
+        "file": "from_DB",
+        "responsiveImage": {
+          "logo": "https://fydez-assets.s3.amazonaws.com/48cd16ba7c3e4c0ea711a154a6955177.png",
+          "width": 0,
+          "height": 0
+        }
+      },
+      "tabs": [
+        {
+          "pageItems": [
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "3bd6d7d2-1b78-4339-80f8-6e3ed9b7538a",
+                "title": "All Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "All Scarves",
+                    "collection": {
+                      "label": "ALL SCARVES",
+                      "value": "277988376629",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_4746.jpg?v=1717818253"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "5e3204c2-78dc-467e-9f9a-50f6ea3f0241",
+                "title": "Animal Print",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Animal Print",
+                    "collection": {
+                      "label": "ANIMAL PRINT COLLECTION",
+                      "value": "165284020277",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_2057.heic?v=1717821817"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "a9e484a7-8635-44a9-8df2-4f5582401251",
+                "title": "Beige Scarves, Shawls & Wraps",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Beige Scarves, Shawls & Wraps",
+                    "collection": {
+                      "label": "Beige Scarves, Shawls, Wraps",
+                      "value": "294305890357",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/beige-scarf.jpg?v=1720413422"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "5b1ce31d-34e0-43ff-b34f-efdbe78117d9",
+                "title": "Best Selling Scarves",
+                "image": "https://fydez-assets.s3.amazonaws.com/51ca0ff40cb247d4890ffe19bcd2d281.png",
+                "responsiveImage": {
+                  "image": "https://fydez-assets.s3.amazonaws.com/51ca0ff40cb247d4890ffe19bcd2d281.png",
+                  "width": 1080,
+                  "height": 1080
+                },
+                "subSubCategories": [
+                  {
+                    "title": "Best Selling Scarves",
+                    "collection": {
+                      "label": "BEST SELLING SCARVES",
+                      "value": "165845925941",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/Screenshot_2024-01-20_at_4.35.59_pm.png?v=1717821479"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "3f9b1877-5339-4edb-aa0d-c5b545cea234",
+                "title": "Women's Black Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Women's Black Scarves",
+                    "collection": {
+                      "label": "Black Scarves For Women",
+                      "value": "294305202229",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/black-scarf.webp?v=1720413224"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "e693042a-c1d2-4870-aa2c-b382e3f9b7f3",
+                "title": "Blue Scarves, Shawls, Wraps",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Blue Scarves, Shawls, Wraps",
+                    "collection": {
+                      "label": "Blue Scarves, Shawls, Wraps",
+                      "value": "294306349109",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/blue-scarf.webp?v=1720413249"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "68eb6102-f302-4d5b-8841-060194345697",
+                "title": "Brown Scarves, Shawls, Wraps",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Brown Scarves, Shawls, Wraps",
+                    "collection": {
+                      "label": "Brown Scarves, Shawls, Wraps",
+                      "value": "294306250805",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/brown-scarf.webp?v=1720413304"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "c0988f93-070d-474d-b82b-47ac3d798fae",
+                "title": "Cashmere Shawls",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Cashmere Shawls",
+                    "collection": {
+                      "label": "CASHMERE SHAWLS",
+                      "value": "282597589045",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_0733.heic?v=1720161212"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "5163c1b2-4c7a-484c-ae98-da693529f51f",
+                "title": "Cotton Linen Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Cotton Linen Scarves",
+                    "collection": {
+                      "label": "COTTON LINEN SCARVES",
+                      "value": "176972791861",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/2018-04-19_12.29.19_HDR.jpg?v=1717821197"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "e430bd4f-585c-4f95-9352-27d33409156c",
+                "title": "Cotton Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Cotton Scarves",
+                    "collection": {
+                      "label": "COTTON SCARVES",
+                      "value": "284577202229",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/Crinkle_Scarves.jpg?v=1717817826"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "144873ea-f414-4ecc-82ef-d62b7fe5c27b",
+                "title": "Fashion Earrings",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Fashion Earrings",
+                    "collection": {
+                      "label": "FASHION EARRINGS",
+                      "value": "285956931637",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_2488.heic?v=1698978694"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "3f6dcb77-12c6-4679-9a30-d9012cbe6c13",
+                "title": "Fine Wool Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Fine Wool Scarves",
+                    "collection": {
+                      "label": "FINE WOOL SCARVES",
+                      "value": "293148131381",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/Photoroom_20240602_161016.jpg?v=1718688039"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "4599a4b9-21ce-4a8e-9976-650ae51863ad",
+                "title": "Floral Scarf",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Floral Scarf",
+                    "collection": {
+                      "label": "FLORAL SCARF COLLECTION",
+                      "value": "165731237941",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_3043.jpg?v=1717819118"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "26b3da2e-3aee-4040-9393-3040b4a39fc7",
+                "title": "Glamour Shawls",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Glamour Shawls",
+                    "collection": {
+                      "label": "GLAMOUR SHAWLS",
+                      "value": "286894161973",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_0344_2.heic?v=1717819920"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "a368e1be-d76c-40b8-80df-10dd1ab55f84",
+                "title": "Green Scarves, Shawls, Wraps",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Green Scarves, Shawls, Wraps",
+                    "collection": {
+                      "label": "Green Scarves, Shawls, Wraps",
+                      "value": "293718720565",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/Photoroom_20240620_114846.jpg?v=1718856516"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "13653d21-868f-4d51-b8eb-d633eebb024c",
+                "title": "Grey Scarves, Shawls, Wraps",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Grey Scarves, Shawls, Wraps",
+                    "collection": {
+                      "label": "Grey Scarves, Shawls, Wraps",
+                      "value": "294306119733",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/grey-scarf.webp?v=1720413386"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "de189070-f40e-4800-b51f-a57071c9f248",
+                "title": "Handmade Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Handmade Scarves",
+                    "collection": {
+                      "label": "HANDMADE SCARVES",
+                      "value": "277133000757",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/1744A10C-A406-4F0B-A47A-368839370372.jpg?v=1717819647"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "67970086-251d-47c0-866c-17cdd53c97bd",
+                "title": "Lightweight Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Lightweight Scarves",
+                    "collection": {
+                      "label": "LIGHTWEIGHT SCARVES",
+                      "value": "276307345461",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/8D83B2A4-4EB3-4226-847E-A736BBB5A768.jpg?v=1717818417"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "3b018aca-3e8f-47c8-af45-7e8dd50fa6e3",
+                "title": "Luxury Shawls",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Luxury Shawls",
+                    "collection": {
+                      "label": "LUXURY SHAWLS",
+                      "value": "165059231797",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/luxury_scarf.jpg?v=1717820991"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "1c6d9b70-287b-42e1-a0f2-8910045d9561",
+                "title": "Men's/Unisex Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Men's/Unisex Scarves",
+                    "collection": {
+                      "label": "MENS SCARF/UNISEX COLLECTION",
+                      "value": "282661847093",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_0807.heic?v=1717817884"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "583abd4e-d526-4141-acf2-fca2daf08c32",
+                "title": "Natural Tones",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Natural Tones",
+                    "collection": {
+                      "label": "NATURAL TONES COLLECTION",
+                      "value": "293377409077",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/Photoroom_20240605_082619.jpg?v=1717812874"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "9a512393-3b38-427c-8717-afbae5f117e5",
+                "title": "Neck Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Neck Scarves",
+                    "collection": {
+                      "label": "NECK SCARVES",
+                      "value": "277131198517",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_4687.jpg?v=1718686965"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "dedf6a23-8519-43ad-9990-7242060dc6fa",
+                "title": "New Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "New Scarves",
+                    "collection": {
+                      "label": "NEW SCARVES",
+                      "value": "260930469941",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/6425C634-B81B-44FC-BF06-51595C5AEEE9.jpg?v=1717820910"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "b7b0451e-a6d1-415a-8338-9bf206050a1a",
+                "title": "Almost Perfect Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Almost Perfect Scarves",
+                    "collection": {
+                      "label": "NOT QUITE PERFECT SCARVES",
+                      "value": "291295526965",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_0342.heic?v=1713595213"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "aef7eae8-6c59-4cee-a762-d17931a97eff",
+                "title": "Orange Scarves, Shawls, Wraps",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Orange Scarves, Shawls, Wraps",
+                    "collection": {
+                      "label": "Orange Scarves, Shawls, Wraps",
+                      "value": "294306283573",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/orange-scarf.webp?v=1720413262"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "36b1f38e-f1c4-4eb8-95ab-4d7ba2f08eac",
+                "title": "Pashmina Shawls",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Pashmina Shawls",
+                    "collection": {
+                      "label": "PASHMINA SHAWLS",
+                      "value": "178039685173",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_0368.heic?v=1718686668"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "5bf7784e-807c-4f1d-8a98-fd5d2c9ba7f1",
+                "title": "Pink & Red Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Pink & Red Scarves",
+                    "collection": {
+                      "label": "Pink Scarf Collection - Scarves, Shawls & Wraps",
+                      "value": "288997670965",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/D14F76EF-27F6-421B-9A19-E2812573CD4D.jpg?v=1717818916"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "2c522bad-2409-4ec4-ad8e-4da86fd48b6e",
+                "title": "Poppy Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Poppy Scarves",
+                    "collection": {
+                      "label": "POPPY SCARVES",
+                      "value": "271025635381",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_0582.jpg?v=1718686441"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "5af67c19-0403-4f67-bb8d-798b9bf7ed94",
+                "title": "Purple Scarves, Shawls, Wraps",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Purple Scarves, Shawls, Wraps",
+                    "collection": {
+                      "label": "Purple Scarves, Shawls, Wraps",
+                      "value": "294306152501",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/purple-scarf.webp?v=1720413365"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "1789d37e-e846-4ef6-82ce-a74517bc8d1a",
+                "title": "Scarf Brooches & Accessories",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Scarf Brooches & Accessories",
+                    "collection": {
+                      "label": "SCARF BROOCHES AND ACCESSORIES",
+                      "value": "291379740725",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/Photoroom_20240423_124313_2.jpg?v=1717131103"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "890ca6bc-e953-4f6c-9433-36471ea210fa",
+                "title": "Silk Modal Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Silk Modal Scarves",
+                    "collection": {
+                      "label": "SILK MODAL  SCARVES",
+                      "value": "165059362869",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/Photoroom_20240317_115801.jpg?v=1718686353"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "9f8bad8f-9562-47e0-ba74-2333e7576e75",
+                "title": "Thick Chunky Scarves",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Thick Chunky Scarves",
+                    "collection": {
+                      "label": "THICK CHUNKY SCARVES",
+                      "value": "294516293685",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/Photoroom_20240714_115011.jpg?v=1720930732"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "0ee2de86-6cb4-47a9-9d10-18448ff415de",
+                "title": "Wedding Shawls",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Wedding Shawls",
+                    "collection": {
+                      "label": "WEDDING SHAWLS",
+                      "value": "262589808693",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_9229_3.heic?v=1718687073"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "f4b8151f-5f10-4be8-bd54-09c4618eaeeb",
+                "title": "White Scarves, Shawls, Wraps",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "White Scarves, Shawls, Wraps",
+                    "collection": {
+                      "label": "White Scarves, Shawls, Wraps",
+                      "value": "294305988661",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/white-scarf.webp?v=1720413408"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "d5938c1d-b6b0-465e-801c-29b3fe5f4e97",
+                "title": "Yellow Scarves, Shawls, Wraps",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Yellow Scarves, Shawls, Wraps",
+                    "collection": {
+                      "label": "Yellow Scarves, Shawls, Wraps",
+                      "value": "294306218037",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/yellow-scarf.webp?v=1720413324"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "id": "dedf9957-ac64-4887-8adf-f63daf90d793",
+          "title": "COLLECTIONS"
+        },
+        {
+          "pageItems": [
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "fd4e280a-258f-4210-8cc1-c639ffafd557",
+                "title": "New",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "New",
+                    "collection": {
+                      "label": "NEW SCARVES",
+                      "value": "260930469941",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/6425C634-B81B-44FC-BF06-51595C5AEEE9.jpg?v=1717820910"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "id": "1d4a66f7-599e-4a51-8f7e-5a9e9c9c16b8",
+          "title": "NEW IN"
+        },
+        {
+          "pageItems": [
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "e99f6aed-3ee3-4094-a835-3b83c99ae926",
+                "title": "Best Sellers",
+                "image": "https://fydez-assets.s3.amazonaws.com/68f908ac18d8456480f1a6a6b14db0c9.png",
+                "responsiveImage": {
+                  "image": "https://fydez-assets.s3.amazonaws.com/68f908ac18d8456480f1a6a6b14db0c9.png",
+                  "width": 1080,
+                  "height": 1080
+                },
+                "subSubCategories": [
+                  {
+                    "title": "Best Sellers",
+                    "collection": {
+                      "label": "BEST SELLING SCARVES",
+                      "value": "165845925941",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/Screenshot_2024-01-20_at_4.35.59_pm.png?v=1717821479"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "id": "fd448872-c653-4834-8177-27d4b09e40ce",
+          "title": "BEST SELLERS"
+        },
+        {
+          "pageItems": [
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "69e19e3a-7c4f-4955-b184-68f0c644c689",
+                "title": "Gift Packs",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Gift Packs",
+                    "collection": {
+                      "label": "SCARF GIFT PACKS",
+                      "value": "264144420917",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/Christmas_Gift_Packs.png?v=1713586632"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "id": "f4f53bd5-bf48-4d8b-a99a-e8d835ee033f",
+          "title": "GIFT PACKS"
+        },
+        {
+          "pageItems": [
+            {
+              "type": "sub_category",
+              "data": {
+                "id": "4f7bdd81-b1ba-41a4-86dc-215084562b24",
+                "title": "Scarf Bundles",
+                "image": "",
+                "subSubCategories": [
+                  {
+                    "title": "Scarf Bundles",
+                    "collection": {
+                      "label": "SCARF BUNDLES",
+                      "value": "284316860469",
+                      "imagePath": "https://cdn.shopify.com/s/files/1/2273/9249/collections/IMG_1679.heic?v=1718688591"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "id": "1016f71e-f5d2-45c1-b15a-42533ec8dc56",
+          "title": "BUNDLES"
+        }
+      ]
+    },
+    "product_detail_page": {
+      "type": "with_header",
+      "items": [
+        {
+          "type": "productImages",
+          "data": {
+            "isOnlyMobile": true,
+            "id": "422dadae-157d-428c-a63f-ade099ad8dce"
+          }
+        },
+        {
+          "type": "productDetailName",
+          "data": {
+            "isOnlyMobile": true,
+            "id": "564b90be-483e-496f-9fba-7a01f766675e"
+          }
+        },
+        {
+          "type": "productDetailPrice",
+          "data": {
+            "isOnlyMobile": true,
+            "id": "b1de3c28-3292-4e9b-8bd2-77baf3d01191"
+          }
+        },
+        {
+          "type": "productDetailDescription",
+          "data": {
+            "isOnlyMobile": true,
+            "id": "2cf7130f-24dd-49a5-8277-25ce6e71ed17"
+          }
+        },
+        {
+          "type": "productVariations",
+          "data": {
+            "isOnlyMobile": true,
+            "id": "3d35d032-fb01-419e-90fc-e0df9f027b91"
+          }
+        }
+      ]
+    },
+    "setting": {
+      "icon": "",
+      "title": "Setting",
+      "items": [
+        {
+          "type": "account",
+          "title": "Account Settings",
+          "icon": {
+            "label": "profileAccountSettings",
+            "value": "profileAccountSettings"
+          },
+          "fullName": "Full Name",
+          "email": "Email",
+          "phoneNumber": "Phone Number",
+          "id": "60a2ccb2-0571-41cd-a87e-24c2c2b2f7d7"
+        },
+        {
+          "id": "60a2ccb2-0571-41cd-a87e-24c2c2b2f7ss",
+          "type": "address",
+          "title": "My Address",
+          "icon": {
+            "label": "Location",
+            "value": "profileAddresses"
+          }
+        },
+        {
+          "id": "05ee602d-efd7-479e-aa4d-b617f66ba501",
+          "type": "orderDetails",
+          "title": "Order Details",
+          "icon": {
+            "label": "profileOrderDetails",
+            "value": "profileOrderDetails"
+          }
+        },
+        {
+          "id": "b198f5b2-acb0-45fc-ade5-6a487ba7600f",
+          "type": "password",
+          "title": "Notification Preferences",
+          "icon": {
+            "label": "Location",
+            "value": "profileAddresses"
+          }
+        },
+        {
+          "id": "bc31b359-b3fc-4308-bb69-31918b065f1d",
+          "type": "contactUs",
+          "title": "Contact Us",
+          "icon": {
+            "label": "profileContact",
+            "value": "profileContact"
+          },
+          "items": [
+            {
+              "type": "text",
+              "id": "b98072b4-834d-4f64-b2e3-442b3e21a404",
+              "title": "Our Address for all mail:",
+              "description": "PO Box 163, Darlington WA 6070\n\nPhone 0411 544 943 \n\nOffice Hours 9 am to 5 pm Monday to Friday"
+            }
+          ]
+        },
+        {
+          "id": "c688b310-ed00-4620-89e6-461bc7517339",
+          "type": "help",
+          "title": "Help",
+          "icon": {
+            "label": "profileHelp",
+            "value": "profileHelp"
+          },
+          "items": [
+            {
+              "type": "drawer",
+              "id": "4c242d4e-2d84-45d7-b479-913e0860dfa6",
+              "title": "Refund policy",
+              "description": "We have a 30-day return policy, which means you have 30 days after receiving your item to request a Return or Exchange."
+            },
+            {
+              "type": "drawer",
+              "id": "b5260b95-babe-4c0b-b096-3a2b12d9a8ce",
+              "title": "Sale items are not eligible for refund or return.",
+              "description": "To be eligible for a Return or Exchange, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.\n\nTo start a Return or Exchange, you can contact us at info@scarvesaustralia.com.au with the details/reason for Return. If your return is accepted, we’ll send you return address details,  as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.\n\nYou can always contact us for any return question at info@scarvesaustralia.com.au."
+            },
+            {
+              "type": "drawer",
+              "id": "36225312-72cc-4a06-bea7-39f58ba08b6e",
+              "title": "Change of mind",
+              "description": "Change of mind returns or wrong colour choices are only eligible for  store credit  in the form of a Scarves Australia Gift Voucher to the value of the original purchase price within 30 days of placing your order. Your item(s) will need to be in their original condition, with tags attached, unworn, unwashed and unstained. For change of mind returns, you will be required to pay the Return postage fee.\n\nOnce your return has reached our warehouse your store credit will be emailed within 7 business days to the email you placed for the original order.\n\n(Please note that our 30 Days Returns Policy is not applicable to sale items)"
+            },
+            {
+              "type": "drawer",
+              "id": "c08302c4-6c12-457b-9297-662a6a0250ef",
+              "title": "Damages and issues",
+              "description": "Please inspect your order upon receipt and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and resolve as quickly as possible."
+            },
+            {
+              "type": "drawer",
+              "id": "653a168a-a031-4999-835f-aa5909e3f49a",
+              "title": "Non-refundable items",
+              "description": "Only items purchased from Scarves Australia can be returned and we do not accept Returns on Sale or Clearance Items, or Gift Cards"
+            },
+            {
+              "type": "drawer",
+              "id": "d0f1a4be-b2c2-4988-b905-b5799009b182",
+              "title": "Exchanges",
+              "description": "The fastest way to ensure you get what you want is to contact us, return the item you have, and once the return is accepted, make a separate purchase for the new item."
+            },
+            {
+              "type": "drawer",
+              "id": "1b58d9bf-8dc2-41a5-87f9-944a4d3bb7e8",
+              "title": "Refunds and additional charges",
+              "description": "We will notify you once we’ve received and inspected your Return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded via your original payment method less any additional fees associated with the purchase. (see below)\n\nWe will refund to your account within  7 days of receiving the item. Please remember it can take a few additional days for your bank or credit card company to process the refund."
+            },
+            {
+              "type": "drawer",
+              "id": "f6f85dd5-4724-4174-9d15-96275b1eab4f",
+              "title": "Disclaimer",
+              "description": "While we endeavour to reproduce images/colours as accurately as possible, there may be some variation depending on screen resolution or monitor settings for each individual computer or device."
+            }
+          ]
+        },
+        {
+          "title": "About us",
+          "link": "https://scarvesaustralia.com.au/pages/about-scarves-australia",
+          "icon": {
+            "label": "Document",
+            "value": "helpPrivacy"
+          },
+          "type": "link",
+          "id": "dd4e50e5-cef6-4c18-ad60-4b66e4cfee73"
+        },
+        {
+          "id": "05ee602d-efd7-479e-aa4d-b617f33366ba501",
+          "type": "logOut",
+          "title": "Logout",
+          "icon": {
+            "label": "logout",
+            "value": "profileLogOut"
+          }
+        }
+      ]
+    }
+  }
+}

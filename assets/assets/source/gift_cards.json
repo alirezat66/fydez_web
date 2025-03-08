@@ -1,0 +1,706 @@
+{
+    "id": 3,
+    "title": "Gift Cards",
+    "description": "Online we have eGift Cards, and in store we have Physical Gift Cards.\n\neGift Cards can be purchased here and will be delivered to your specified email within the hour of purchasing.\n\nPhysical Gift Cards can be purchased in any Oroton store (excluding concession stores).",
+    "items": [
+        {
+            "title": "Gift Cards",
+            "items": [
+                {
+                    "type": "table",
+                    "columnCount": 3,
+                    "rows": [
+                        [
+                            {
+                                "type": "text",
+                                "style": "h2",
+                                "content": "FAQ"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h2",
+                                "content": "eGift Card"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h2",
+                                "content": "Physical Gift Card"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Purchase Online"
+                            },
+                            {
+                                "type": "rich",
+                                "style": "h5",
+                                "items": [
+                                    {
+                                        "type": "text",
+                                        "style": "h5",
+                                        "content": "Yes"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "style": "h5",
+                                        "content": "here",
+                                        "href": "https://oroton.com/international-giftcards"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "No"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Purchase In Store"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "No"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Yes"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Use In Store"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Yes"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Yes"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Use Multiple Gift Cards"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Yes"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Yes"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Purchase With BNPL or Another Gift Card"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "No"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "No"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Delivery Time"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Emailed within the hour"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Directly after purchase"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Use at Oroton Concession Stores(Myer/David Jones)"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "No"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "No"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Returns:"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Gift Cards cannot be returned or redeemed for cash."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Lost or Stolen:"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Physical Gift Cards are treated as cash and cannot be replaced if lost or stolen."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Expiration:"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Physical Gift Cards expire 3 years from the date of issue (or 3 years from date of purchase for EGift Cards). Gift cards are partially redeemable and it is up to the cardholder to use the full value within the validity period. Any balance that remains on the Gift Card after expiry will not be available for use. Amendments to the NSW Fair Trading Act 1987 were passed by the NSW Parliament in October 2017 to be implemented on 31 March 2018. The amendments introduce a mandatory 3-year expiry date on gift cards and gift vouchers sold to consumers in NSW. We are pleased to announce that from 9 February 2018, all Oroton gift cards purchased will have a 3-year expiry date, irrespective of state of purchase. For more information please visit "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h4",
+                            "content": "Fair Trading",
+                            "href": "https://www.fairtrading.nsw.gov.au/buying-products-and-services/ways-to-pay/gift-cards-and-vouchers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "FAQs",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "How do I check the balance of my Gift Card?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "In store: the available balance of your Gift Card will appear on your receipt after each purchase. You can also check your balance at any Oroton boutique or Oroton Outlet store."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Where can I view the expiry date of my Gift Card?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "eGift Cards: on the eGift Card email, it is valid 3 years from the scheduled date."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Physical Gift Cards: on the back of the gift card, and or on the receipt."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "What do I do if my gift card has expired?"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "All gift cards are valid for 3 years from date of issue (or date of purchase for eGift cards), if your card has expired we cannot extend. Please "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "contact us",
+                            "href": "https://oroton.com/help/contact-us/"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " if you have any concerns."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Can I use BNPL (Afterpay, Paypal Pay In 4, Klarna), another Gift Card or a Store Credit to purchase a Gift Card?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "No, you cannot purchase a Gift Card using BNPL, another Gift Card or Store Credit."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Can I do split payments methods to purchase a Gift Card?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Yes, you can pay the remaining amount using any other payment method at checkout."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "How is my refund processed if purchased with a Gift Card?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Gift cards are not redeemable for cash. If you wish to return an item(s) from your order purchased with a Gift Card, the refund amount will be reissued as an online credit for any online returns, or a store credit for any returns to a store, valid for 12 months from the date of issue."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Can I purchase Gift Cards in other currencies?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "We only offer Gift Cards in AUD. Gift Cards redeemed in store and online and will be processed in local currency at the daily exchange rate, this rate is set by a third party provider."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "How do I use my Gift Card?"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Online: "
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "At checkout enter the unique gift card number and hit 'apply'. Note the total amount will be used from the gift card."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "In store: "
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "By displaying the Gift Card or eGift Card email so the sales assistant can scan the barcode."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "I left my gift card at home, can I still purchase in store using it?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "No, gift cards need to be redeemed at the time of purchase."
+                }
+            ]
+        },
+        {
+            "title": "Can I Cancel My Online Order?",
+            "items": [
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Most online orders are fulfilled from our Sydney warehouse within a few hours, but please "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "contact us",
+                            "href": "https://oroton.com/help/contact-us/"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " and we may be able to cancel your order. Cancellation requests are not guaranteed."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Tax Invoice",
+            "items": [
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Your tax invoice can be accessed and downloaded at any time under the "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "My Account",
+                            "href": "https://oroton.com/login.php"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " section on our site."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Go to My Account > click order history > select order > print invoice."
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "If you opt to checkout as a guest, you will not be able to access your tax invoices this way. Please "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "contact us",
+                            "href": "https://oroton.com/help/contact-us/"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " for a copy of your tax invoice."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Returning & Exchanges",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "How do I return my online order?"
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Australian Returns"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "You can return your online purchase by mail free of charge within Australia 14 days from arrival date. Please print your pre-paid shipping label "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "here.",
+                            "href": "https://return.auspost.com.au/OROTON_AUSTRALIA"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Drop off your return parcel to any Australia Post Office so we can track it safely back to us."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Full price and faulty items are eligible for a refund, sale and discounted items are eligible for an Oroton credit. Unfortunately we do not offer online exchanges. FINAL SALE, pierced earrings and marks cannot be returned or exchanged unless faulty."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "In Store"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Please visit any of our Oroton Boutique or Oroton Factory Outlet stores within 14 days from arrival date. Please note that Paypal and Klarna purchases are only eligible for an exchange of the same value or more in store, and FINAL SALE items cannot be returned or exchanged unless faulty."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "International Returns"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "We do not cover the cost of international returns or provide online exchanges. If you wish to return your international order, please download "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "this",
+                            "href": "https://oroton.com/content/img/PDFs/Oroton_Returns_From_International.pdf"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "returns form, and follow the steps."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "How long does it take to process a refund?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Once your parcel arrives at our fulfillment centre, your refund will be processed back to the same account you’ve used to make your purchase in 3-5 business days."
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Any orders made via "
+                        },
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "Afterpay, Klarna, Paypal Pay In 4"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " will be refunded and we will cancel any future payments."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Can I exchange my online order?"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "You can bring your online order into your nearest Oroton store (excluding Myer or David Jones concession stores) for an exchange within 14 days of receiving your delivery. All items must be in their original condition with tags. Please note that we do not provide online exchanges."
+                }
+            ]
+        },
+        {
+            "title": "Promotions",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h6",
+                    "content": "Unless otherwise stated, sale prices, final sale prices and promotions are the same online and in store."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Why your promotion code may not be working:"
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Require you to Login or Checkout as a guest"
+                    }
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Have a minimum spend"
+                    }
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Have been redeemed already"
+                    }
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Not be valid on certain items"
+                    }
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Have expired"
+                    }
+                },
+                {
+                    "type": "bullet-empty",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Have been misspelt"
+                    }
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "View promotion "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h4",
+                            "content": "T&C's",
+                            "href": "https://oroton.com/help/promotion-policy/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wear & Tear",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Under our warranty we are able to cover the failure of hardware, components or workmanship. Falling outside of our warranty are the personal effects of wear and tear such as accidents, treatment which is inconsistent with our care instructions, and dismantling or repairs by persons other than recommended repair centres."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Example: A common effect of wear and tear is color migration from denim or dark materials onto light coloured leather. This effect of wear and tear is usually irreversible thus we recommend when purchasing Oroton products that you seek care advice from our Oroton staff members."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Does Oroton have a repair service?"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Unfortunately Oroton does not offer a repair service or stock spare parts. If you have a previous season or vintage Oroton product that requires repair, please feel free to contact your closest "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h4",
+                            "content": "Oroton store",
+                            "href": "https://oroton.com/store-locator/"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " for a recommendation for a local repair service."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Please note that Oroton is not responsible for items damaged by repair centres other than those recommended."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Dust Bags"
+                },
+                {
+                    "type": "text",
+                    "style": "h6",
+                    "content": "In an effort to be more environmentally conscious, please note that Oroton no longer provides dust bags for the following Outlet items: all items under $299, including crossbody bags; all non-leather collections i.e.: Ella, Signet Jacquard, etc."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Spare Parts"
+                },
+                {
+                    "type": "text",
+                    "style": "h6",
+                    "content": "Unfortunately Oroton does not provide or sell spare parts."
+                }
+            ]
+        }
+    ]
+}

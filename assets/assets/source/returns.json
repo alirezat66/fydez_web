@@ -1,0 +1,411 @@
+{
+    "id": 2,
+    "title": "Returns",
+    "description": "",
+    "items": [
+        {
+            "title": "Holiday Extended Exchanges",
+            "items": [
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "Any purchases between "
+                        },
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "November 10th and December 25th"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "can be exchanged for product or store credit until "
+                        },
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "January 15th 2023."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Full Price purchases can be returned for a refund within the standard exchange period of 14 days since purchase date in store or arrival date from online."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "This exchange condition does not affect items that are deemed as faulty."
+                }
+            ]
+        },
+        {
+            "title": "Full Priced Items",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "We will gladly refund in accordance with the following conditions:"
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Item(s) are purchased at full price and returned within 14 days from arrival date."
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Full Price item is returned with proof of purchase*"
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Full Price item is returned in new condition and unused with all tags attached"
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Not a Gift Card"
+                    }
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Once we receive your return, a refund for the value of your item(s) excluding shipping charges will be processed back to the same account used to make your purchase in 3-5 business days. Please note that we are unable to provide online exchanges."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "If the item being returned is a gift, it must also follow the above listed conditions."
+                }
+            ]
+        },
+        {
+            "title": "Discounted Items",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "'Discounted Items' refers to items that are purchased from our Outlet*, are on sale or have a promotion applied. We will gladly offer an Exchange (in store only) or online credit on discounted items, in accordance with the following conditions:"
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Discounted item(s) is returned within 14 days from arrival date."
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Discounted item(s) is returned with proof of purchase*"
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Discounted item(s) is returned in new condition and unused, with all tags attached"
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Discounted item(s) are not marked as 'Final Sale'"
+                    }
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "The amount credited will only cover the value of the item(s) purchased, shipping charges are not credited."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Note, online credit notes are valid for 12 months from date of issue date."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Please note: We only provide refunds on Discounted items when it is deemed faulty and we are unable to provide online exchanges. If you wish to exchange a sale item, you can do so in store."
+                }
+            ]
+        },
+        {
+            "title": "Final and Clearance Sale Items",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Final sale and clearance sale applies to items that have been marked down to clear. Items that are marked with final sale or clearance sale are not eligible for return, unless in the event of them being faulty. We recommend choosing carefully to avoid disappointment and suggest contacting us for assistance, prior to purchasing."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "A notice will appear in your cart for items that have been marked as final sale, and by purchasing a final sale item you agree that the item cannot be returned. If final sale items have been returned to an Oroton warehouse or store without authorisation, items will be returned to sender at the senders expense."
+                }
+            ]
+        },
+        {
+            "title": "Returning Your Purchase",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "By Mail"
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "You can return your online purchase by mail "
+                        },
+                        {
+                            "type": "text",
+                            "style": "h4",
+                            "content": "free of charge within Australia"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " 14 days from arrival date. Please print your pre-paid shipping label "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "here.",
+                            "href": "https://return.auspost.com.au/OROTON_AUSTRALIA"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " Drop off your return parcel to any Australia Post Office so we can track it safely back to us."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Full price and faulty items are eligible for a refund, sale and discounted items are eligible for an Oroton credit. Unfortunately we do not offer online exchanges. FINAL SALE, pierced earrings and marks cannot be returned or exchanged unless faulty."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "In Store"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Please visit any of our Oroton Boutique or Oroton Factory Outlet stores within 14 days from arrival date. Please note that Afterpay purchases are only eligible for an exchange of the same value or more in store."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Paypal & Klarna"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Any orders placed with PayPal/PayPal Pay In 4 can be returned to a store for an exchange or Oroton credit. Refunds for PayPal/PayPal Pay In 4 orders can only be processed at Oroton Head Office."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "International Returns"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Please note: We do not cover the cost of international returns or provide online exchanges. We will provide a refund upon receiving the return in their original condition and returned within 14 days of receiving your delivery."
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "If you would like to return your faulty item, please "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h4",
+                            "content": "free of charge within Australia",
+                            "href": "https://oroton.com/help/contact-us/"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " with your:"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Full name"
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Contact number"
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Order number"
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "4-5 clear photos showing the issue from a number of different angles, including 1 photo of the full item to help us to identify where the issue is located and also to help us match the product to your receipt"
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "Discounted item(s) are not marked as 'Final Sale'"
+                    }
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "A copy of your receipt (if you need us to locate this for you, please provide us with the name of the account holder linked to the purchase)"
+                }
+            ]
+        },
+        {
+            "title": "Swimwear, Priced Earring, Face Masks",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Swimwear"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Item/s in their original condition, with tags and hygiene stickers still attached may be returned within 14 days of purchase (or arrival) date."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Item/s can be returned outside of this where deemed faulty."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Sun and chemical fading or discoloration does not deem a product faulty."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "If Swimwear items have been returned to an Oroton warehouse or store, in unoriginal condition, without tags and hygiene stickers attached, items will be returned to sender at the senders expense."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Pierced Earrings"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Due to hygiene reasons, pierced earrings are unable to be returned for change of mind, unless deemed faulty."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Face Masks"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Due to hygiene reasons and current Covid-19 health restrictions, face masks are unable to be returned for change of mind, unless deemed faulty."
+                }
+            ]
+        },
+        {
+            "title": "Warranty",
+            "items": [
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "We stand by the quality of our manufacturing standards, however should any defect or manufacture fault (failure of hardware, components or workmanship) present itself please kindly "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h4",
+                            "content": "contact us",
+                            "href": "https://oroton.com/help/contact-us/"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "and we will be happy to assist you accordingly. We will gladly exchange or refund with proof of purchase."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Please note: It’s unfortunate that within the current environment, the use of hand sanitizer has increased. At Oroton we want you all to be safe however please be mindful that the use of hand sanitizer and other alcohol based products can have a damaging effect on your beautiful new purchases."
+                }
+            ]
+        }
+    ]
+}

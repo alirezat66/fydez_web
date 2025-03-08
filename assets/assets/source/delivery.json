@@ -1,0 +1,426 @@
+{
+    "id": 1,
+    "title": "Delivery",
+    "description": "",
+    
+    "items": [
+        {
+            "title": "Your Delivery Options",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Our delivery options may vary. View what's currently available at checkout as per your shipping location."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Note shipping times *excludes public holidays. Also during sale/promotional events, delivery may be longer than specified times."
+                },
+                {
+                    "type": "table",
+                    "columnCount": 3,
+                    "rows": [
+                        [
+                            {
+                                "type": "text",
+                                "style": "h2",
+                                "content": "AUSTRALIA"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h2",
+                                "content": "NEW ZEALAND"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h2",
+                                "content": "INTERNATIONAL"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "column",
+                                "items": [
+                                    {
+                                        "type": "text",
+                                        "style": "h3",
+                                        "content": "Express Australia Post*"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "style": "h5",
+                                        "content": "*Australia Post will hand to a third party/local courier in regional areas"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "column",
+                                "items": [
+                                    {
+                                        "type": "text",
+                                        "style": "h3",
+                                        "content": "DHL Express*"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "style": "h5",
+                                        "content": "*DHL may hand to a local courier"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "column",
+                                "items": [
+                                    {
+                                        "type": "text",
+                                        "style": "h3",
+                                        "content": "DHL Express*"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "style": "h5",
+                                        "content": "*DHL may hand to a local courier"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            {
+                                "type": "column",
+                                "items": [
+                                    {
+                                        "type": "text",
+                                        "style": "h5",
+                                        "content": "Orders over $200"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "style": "h3",
+                                        "content": "FREE"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "style": "h5",
+                                        "content": "Orders under $200"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "style": "h3",
+                                        "content": "$9.95"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "column",
+                                "items": [
+                                    {
+                                        "type": "text",
+                                        "style": "h3",
+                                        "content": "AUD $19.95"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "style": "h5",
+                                        "content": "Fee calculated in AUD"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Prices include duties, taxes and shipping for your country"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Currently delivering in 2-4 business days*"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Currently delivering in 3-5 business days*"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "Currently delivering in 3-5 business days*"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h6",
+                    "content": "We ship to most places, however some countries are excluded at checkout."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Australia Post 'Safe Drop'"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Safe Drop is when the delivery person finds a suitable place at the delivery address where they can safely leave your parcel if it doesn’t fit in your mailbox or if you’re not home to receive it."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Australia Post will automatically Safe Drop parcels that don’t need a signature on delivery."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "If it's too big to be left in your mailbox and no one's at the delivery address, Australia Post will:"
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "check if special delivery instructions have been provided."
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "rich",
+                        "style": "h5",
+                        "items": [
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "look for a"
+                            },
+                            {
+                                "type": "link",
+                                "style": "h5",
+                                "content": "suitable Safe Drop location",
+                                "href": "https://auspost.com.au/help-and-support/answers?s=000011207"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h5",
+                                "content": "(if a signature isn't required and the delivery instructions allow)."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "bullet",
+                    "style": "h5",
+                    "content": {
+                        "type": "text",
+                        "style": "h5",
+                        "content": "leave an \"Attempted Delivery\" card and transfer the parcel to the nearest post office for collection."
+                    }
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "DHL Delivery"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "If you have not provided Authority To Leave, you will receive a \"Attempted Delivery\" card detailing how you can arrange redelivery of your item with DHL directly."
+                }
+            ]
+        },
+        {
+            "title": "How To Track Your Order",
+            "items": [
+                {
+                    "type": "table",
+                    "columnCount": 2,
+                    "rows": [
+                        [
+                            {
+                                "type": "text",
+                                "style": "h2",
+                                "content": "AUSTRALIA"
+                            },
+                            {
+                                "type": "text",
+                                "style": "h2",
+                                "content": "REST OF THE WORLD"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "link",
+                                "style": "h4",
+                                "content": "www.auspost.com.au",
+                                "href": "www.auspost.com.au"
+                            },
+                            {
+                                "type": "link",
+                                "style": "h4",
+                                "content": "www.dhl.com",
+                                "href": "www.dhl.com"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Tracking details will be sent once your order has left our Sydney warehouse."
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "If it has been 5 business days since you placed your order and your parcel has still not arrived, "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "please contact",
+                            "href": "https://oroton.com/help/contact-us/"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "our Customer Care team."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Keep in mind that during sale periods and promotions, delivery dates may be longer."
+                }
+            ]
+        },
+        {
+            "title": "Update Delivery Address",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "All online orders are fulfilled from our Sydney warehouse within a few hours, once your order has been confirmed Customer Care are unable to make changes, though you may be able to update your address directly with the courier."
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "or Australian orders, please login to your "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "MyPost Account.",
+                            "href": "https://auspost.com.au/delivery-options"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "If you have received your Australia Post tracking number please "
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " to view your delivery options with Australia Post."
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "click here",
+                            "href": "https://auspost.com.au/delivery-options"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " to view your delivery options with Australia Post."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich",
+                    "style": "h5",
+                    "items": [
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "For international orders, please contact "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "DHL.",
+                            "href": "https://delivery.dhl.com/waybill.xhtml?ctrycode=AU"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": "If you have received your DHL Tracking/Waybill number please "
+                        },
+                        {
+                            "type": "link",
+                            "style": "h5",
+                            "content": "click here",
+                            "href": "https://delivery.dhl.com/waybill.xhtml?ctrycode=AU"
+                        },
+                        {
+                            "type": "text",
+                            "style": "h5",
+                            "content": " and DHL may give you the option of updating your shipping address. Please note that if DHL are able to manually update your delivery details, your tax invoice will still reflect your original details as this was processed prior to your address change."
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "f you enter an incorrect address during checkout, Oroton is not liable for any delay or if the item does not arrive to you. Where an incorrect address is entered, parcels are usually returned to sender. We will make every effort upon the parcel being returned to us to re-label and re-dispatch, however Oroton cannot be accountable for any delays which are incurred during the transit/delivery period. Please note there may be an added delivery charge to resend your item(s) to the correct address."
+                }
+            ]
+        },
+        {
+            "title": "Taxes and Duties",
+            "items": [
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Oroton will pay all taxes and duties on behalf of our customers."
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Internationally, the price our customers pay include all taxes, duties & shipping with the exception of large luggage items which may incur an additional shipping charge at checkout."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Chinese Government Import Laws"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Due to Chinese government import laws, any order with multiple items, where the value is greater than RMB 1,000 (approx. AUD $200) are not allowed."
+                },
+                {
+                    "type": "text",
+                    "style": "h4",
+                    "content": "Russian Government Import Laws"
+                },
+                {
+                    "type": "text",
+                    "style": "h5",
+                    "content": "Due to Russian government import laws, orders to Russia must be delivered to a business address and purchased using a commercial bank account. We are unable to deliver orders to residential Russian addresses and accept orders placed with a personal account. All orders placed to private residences will be returned to sender."
+                }
+            ]
+        }
+    ]
+}

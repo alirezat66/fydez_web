@@ -1,0 +1,145 @@
+{
+  "step": 12,
+  "payload": {
+    "colorPallet": {
+      "callToAction": {
+        "primary": {
+          "label": "#DF8037",
+          "value": "#df8037"
+        },
+        "secondary": {
+          "label": "#DF8037",
+          "value": "#df8037"
+        }
+      },
+      "texture": {
+        "title": {
+          "label": "Gray8",
+          "value": "#585858"
+        },
+        "subTitle": {
+          "label": "Gray5",
+          "value": "#B4B4B4"
+        }
+      },
+      "dominantColor": {
+        "background": {
+          "label": "White",
+          "value": "#FFFFFF"
+        }
+      }
+    },
+    "fontFamily": {
+      "label": "Open Sans",
+      "value": "Open Sans"
+    },
+    "textField": {
+      "type": "A",
+      "cornerRadius": {
+        "label": "0",
+        "value": "0"
+      },
+      "style": {
+        "label": "Simple",
+        "value": "simple"
+      }
+    },
+    "dropDown": {
+      "type": "A",
+      "cornerRadius": {
+        "label": "0",
+        "value": "0"
+      },
+      "state": {
+        "label": "Single Select",
+        "value": "single_select"
+      }
+    },
+    "button": {
+      "type": "A",
+      "cornerRadius": {
+        "label": "0",
+        "value": "0"
+      },
+      "style": {
+        "label": "Contained",
+        "value": "contained"
+      },
+      "state": {
+        "label": "Default",
+        "value": "default"
+      }
+    },
+    "icon": {
+      "iconPack": {
+        "label": "Material",
+        "value": "material"
+      },
+      "color": {
+        "label": "White",
+        "value": "#fff"
+      }
+    },
+    "popUp": {
+      "type": "B",
+      "cornerRadius": {
+        "label": "20",
+        "value": "20"
+      },
+      "background": {
+        "label": "Blur",
+        "value": "blur"
+      },
+      "handle": {
+        "label": "Simple",
+        "value": "Simple"
+      },
+      "hasIcon": false
+    },
+    "navigation": {
+      "type": "with_title",
+      "style": {
+        "label": "Fit",
+        "value": "bold"
+      },
+      "effect": {
+        "label": "Shadow",
+        "value": "shadow"
+      },
+      "cornerRadius": {
+        "label": "0",
+        "value": "0"
+      }
+    },
+    "cards": {
+      "type": "A",
+      "cornerRadius": {
+        "label": "0",
+        "value": "0"
+      },
+      "badges": {
+        "label": "Sharp",
+        "value": "sharp"
+      },
+      "background": {
+        "label": "Shadow",
+        "value": "shadow"
+      },
+      "placeholder": ""
+    },
+    "spacing": {
+      "cornerRadius": {
+        "label": "4",
+        "value": "4"
+      },
+      "rightLeftPadding": {
+        "label": "16",
+        "value": "16"
+      },
+      "topBottomPadding": {
+        "label": "24",
+        "value": "24"
+      }
+    }
+  }
+}
